@@ -13,3 +13,6 @@ I like to do Yoga to keep myself fit.
 [ChilliClove.com](http://www.chilliclove.com) is my attempt to pen down recipes I learned and liked. I would also be reviewing some of the great places which I have travelled to in and out of India. I will also take a shot to share my idea of good and healthy lifestyle.
 
 
+##### Credits:
+
+[ChilliClove.com](http://www.chilliclove.com) uses [Hugo](https://gohugo.io/) with [parsa-hugo](https://github.com/themefisher/parsa-hugo) theme.
