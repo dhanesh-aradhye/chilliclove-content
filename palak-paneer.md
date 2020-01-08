@@ -1,5 +1,5 @@
 ---
-title: "पालक पनीर"
+title: "Palak Paneer (पालक पनीर)"
 date: 2019-12-26
 description: "Marathi Recipe for palak paneer bhaji"
 type: "post"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "paneer"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### पालक पनीर 
 

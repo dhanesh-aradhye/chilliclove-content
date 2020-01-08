@@ -1,5 +1,5 @@
 ---
-title: "दावणगिरी डोसा"
+title: "Davangiri Dosa (दावणगिरी डोसा)"
 date: 2019-12-18
 description: "Marathi Recipe for davangiri loni dosa"
 type: "post"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "dosa"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### दावणगिरी डोसा (साधारणपणे १८ मध्यम आकाराच्या डोश्यांसाठी)
 

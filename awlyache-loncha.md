@@ -1,15 +1,29 @@
 ---
-title: "आवळ्याचे लोणचे"
+title: "Awalyache lonche (आवळ्याचे लोणचे)"
 date: 2019-12-12
-description: "Marathi Recipe for awalyche lonche amla pickle"
+description: "Marathi Recipe for awalyche lonche also called as amla pickle"
 type: "post"
 image: "images/masonary-post/awlyache-loncha.jpg"
 slug: "awlyache-loncha"
 categories: 
   - "Pickle"
 tags:
-  - "amla"
+  - "awla"
 ---
+
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
 
 
 #### आवळ्याचे लोणचे 

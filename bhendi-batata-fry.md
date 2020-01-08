@@ -1,5 +1,5 @@
 ---
-title: "भेंडी बटाटा फ्राय"
+title: "Bhendi Fry (भेंडी बटाटा फ्राय)"
 date: 2019-12-11
 description: "Marathi Recipe for bhendi batata fry bhaji"
 type: "post"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "fry"
 ---
+
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
 
 
 #### भेंडी बटाटा फ्राय (२ जणांसाठी)

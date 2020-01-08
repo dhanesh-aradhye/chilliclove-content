@@ -1,7 +1,7 @@
 ---
-title: "अळूची पातळ भाजी"
+title: "Aluchi bhaji (अळूची पातळ भाजी)"
 date: 2019-12-10
-description: "Marathi Recipe for aluchi patal taro leaves bhaji"
+description: "Marathi Recipe for aluchi patal bhaji also called as taro leaves bhaji"
 type: "post"
 image: "images/masonary-post/aluchi-patal-bhaji.jpg"
 slug: "aluchi-patal-bhaji"
@@ -9,7 +9,22 @@ categories:
   - "Lunch"
 tags:
   - "taro-leaves"
+  - "alu-bhaji"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### अळूची पातळ भाजी
 

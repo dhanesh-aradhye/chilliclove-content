@@ -1,5 +1,5 @@
 ---
-title: "पनीर बटर मसाला"
+title: "Paneer Butter Masala (पनीर बटर मसाला)"
 date: 2019-12-12
 description: "Marathi Recipe for paneer butter masala"
 type: "post"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "paneer"
 ---
+
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
 
 
 #### पनीर बटर मसाला (३ माणसांसाठी)

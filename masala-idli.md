@@ -1,5 +1,5 @@
 ---
-title: "मसाला इडली (२-३ जणांसाठी)"
+title: "Masala Idli (मसाला इडली)"
 date: 2019-12-30
 description: "Marathi Recipe for masala idli snacks"
 type: "post"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "idli"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### मसाला इडली (२-३ जणांसाठी)
 

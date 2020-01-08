@@ -1,7 +1,7 @@
 ---
-title: "खजूर कणिक शिरा"
+title: "Dates sheera (खजूर कणिक शिरा)"
 date: 2020-01-01
-description: "Marathi Recipe for khajoor dates sheera from wheat"
+description: "Marathi Recipe for sheera made of wheat and khajoor or dates"
 type: "post"
 image: "images/masonary-post/khajoor-kanik-sheera.jpg"
 slug: "khajoor-kanik-sheera-halwa"
@@ -12,6 +12,20 @@ tags:
   - "halwa"
 
 ---
+
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
 
 
 #### खजूर कणिक शिरा

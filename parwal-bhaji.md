@@ -1,5 +1,5 @@
 ---
-title: "परवलाची भाजी"
+title: "Parwal bhaji (परवलाची भाजी)"
 date: 2019-12-21
 description: "Marathi Recipe for pointed guard bhaji parval bhaji"
 type: "post"
@@ -9,7 +9,22 @@ categories:
   - "Lunch"
 tags:
   - "pointed-gourd"
+  - "parwal"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### परवलाची भाजी 
 

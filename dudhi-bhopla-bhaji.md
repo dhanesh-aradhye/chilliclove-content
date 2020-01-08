@@ -1,7 +1,7 @@
 ---
-title: "दुधी भोपळ्याची भाजी"
+title: "Dudhi Bhopla bhaji (दुधी भोपळ्याची भाजी)"
 date: 2019-12-17
-description: "Marathi Recipe for dudhi bhopla lauki bhaji"
+description: "Marathi Recipe for dudhi bhopla also called as lauki bhaji"
 type: "post"
 image: "images/masonary-post/dudhi-bhopla-bhaji.jpg"
 slug: "dudhi-bhopla-bhaji"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "lauki"
 ---
+
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
 
 
 #### दुधी भोपळ्याची भाजी

@@ -1,7 +1,7 @@
 ---
-title: "कांद्याच्या पातीची भाजी"
+title: "Spring Onion bhaji (कांद्याच्या पातीची भाजी)"
 date: 2019-12-15
-description: "Marathi Recipe for kandyachi paat bhaji spring onion bhaji"
+description: "Marathi Recipe for kandyachi paat bhaji or spring onion bhaji"
 type: "post"
 image: "images/masonary-post/kandyachya-patechi-bhaji.jpg"
 slug: "kandyachya-patechi-bhaji"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "spring-onion"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### कांद्याच्या पातीची भाजी 
 

@@ -1,7 +1,7 @@
 ---
-title: "तवा पुलाव"
+title: "Tawa Puloa (तवा पुलाव)"
 date: 2019-12-30
-description: "Marathi Recipe for Tawa Pulao"
+description: "Marathi Recipe for Tawa Pulao rice dish"
 type: "post"
 image: "images/masonary-post/tawa-pulao.jpg"
 slug: "tawa-pulao"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "pulao"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### तवा पुलाव (४ माणसांसाठी) 
 

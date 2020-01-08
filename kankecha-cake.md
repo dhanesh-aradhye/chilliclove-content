@@ -1,7 +1,7 @@
 ---
-title: "कणकेचा केक"
+title: "Wheat Cake (कणकेचा केक)"
 date: 2019-12-13
-description: "Marathi Recipe for kankecha cake wheat cake"
+description: "Marathi Recipe for kankecha cake or wheat cake"
 type: "post"
 image: "images/masonary-post/kankecha-cake.jpg"
 slug: "kankecha-cake"
@@ -10,6 +10,20 @@ categories:
 tags:
   - "cake"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
+
+
 
 #### कणकेचा केक 
 

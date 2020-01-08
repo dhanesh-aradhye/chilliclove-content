@@ -1,7 +1,7 @@
 ---
-title: "अळूच्या वड्या"
+title: "Alu Wadi (अळूच्या वड्या)"
 date: 2019-12-11
-description: "Marathi Recipe for aluchya wadya taro leaves snacks"
+description: "Marathi Recipe for alu wadi also called as taro leaves"
 type: "post"
 image: "images/masonary-post/alu-wadi.jpg"
 slug: "alu-wadi"
@@ -11,6 +11,18 @@ tags:
   - "taro-leaves"
   - "alu-wadi"
 ---
+
+###### English
+
+
+
+
+
+
+
+
+###### Marathi
+
 
 
 
