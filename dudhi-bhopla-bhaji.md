@@ -7,6 +7,7 @@ image: "images/masonary-post/dudhi-bhopla-bhaji.jpg"
 slug: "dudhi-bhopla-bhaji"
 categories: 
   - "Bhaji"
+  - "Curry"
 tags:
   - "lauki" 
   - "Bottle gourd"
