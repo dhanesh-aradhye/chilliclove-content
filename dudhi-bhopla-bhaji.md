@@ -8,7 +8,8 @@ slug: "dudhi-bhopla-bhaji"
 categories: 
   - "Bhaji"
 tags:
-  - "lauki", "Bottle gourd"
+  - "lauki" 
+  - "Bottle gourd"
 ---
 
 
