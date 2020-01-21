@@ -15,6 +15,39 @@ tags:
 ###### English
 
 
+#### Bhendi Batata Fry (for 2 persons)
+
+
+##### Ingredients: 
+
+
+
+- Half a pound of okra,
+- 2 medium sized potatoes,
+- 1 tbsp chili,
+- 3 tablespoons oil,
+- 1 tsp Chaat masala,
+- 3-5 garlic cloves,
+- Salt to taste,
+- Mustard, cumin, hing, turmeric for boiling.
+
+
+
+##### Procedure:
+
+
+- Rinse the okra and wipe it dry, cut into thin strips.
+- Potatoes should be cut into thin slices.
+- In a saucepan, add oil and fry.
+- Then add garlic pieces and fry it slightly.
+- Then add chopped potato and fry for 2-3 minutes.
+- Do not cover.
+- Then add chili masala, salt, chut masala and stir well.
+- Then add chopped okra and sauté until vegetable is crisp.
+
+> ** Note: ** Do not stir the vegetables too much. And after stirring the vegetables, spread them well, so that they are nice crisp. Also, fry the vegetables on low flame so that they are more tasty.
+
+
 
 
 

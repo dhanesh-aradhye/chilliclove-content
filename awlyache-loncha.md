@@ -15,6 +15,39 @@ tags:
 ###### English
 
 
+#### Awalyache lonche
+
+
+##### Ingredients: 
+
+
+- Pound kilograms (usually comes in 1-2),
+- 1 tablespoon salt,
+- 1 tsp mustard,
+- 1 tbsp fried fenugreek seeds,
+- 1 tbsp chili,
+- 2 tablespoons oil, to boil
+- 1 tsp hing,
+- 1 tsp turmeric powder.
+
+
+
+
+##### Procedure:
+
+
+
+- Rinse the pot and put it in a pot and let it boil in the cooker.
+- Generally remove 2-3 stitches.
+- Do not add water to the pot while boiling the pot, just add water to the bottom of the cooker.
+- When the litter is turned, take the oysters out in a bowl, sow them, and spread them for about an hour.
+- In a mixer, add 2 tablespoons salt, fried fenugreek and half teaspoon mustard.
+- In a small pan, add 2 tablespoons of oil, add half a spoon of mustard, half a spoonful of hing, and half a spoon of turmeric.
+- Then add 1 teaspoon salt, 2 tablespoons chilli, half teaspoon turmeric, half teaspoon hing, and finely mashed spices into the mixer.
+- Fill it all by pressing it into a dry vessel;
+
+
+> ** NOTE: ** To keep the pickles firm, stir every 3-5 days.
 
 
 

@@ -16,8 +16,39 @@ tags:
 
 
 
+#### Aluchya Wadya (25-30 pieces)
 
 
+##### Ingredients: 
+
+
+- 2 leaves of taro (medium sized),
+- 2 cups of flour,
+- 1 tablespoon of rice,
+- 1 tbsp jaggery,
+- Tangy and salt to taste,
+- pinch of turmeric,
+- 1 spoon coriander + cumin powder,
+- 1 small lemon juice,
+- 3 tablespoons roasted sesame seeds,
+- Coriander leaves (for decoration)
+
+
+##### Procedure:
+
+
+
+- Rinse the leaves and wipe them with a dry cloth.
+- Cut the stalk of the leaf, cut off the excess veins at the back of the leaf. 
+- Combine the gram flour, turmeric powder, turmeric powder, salt, coriander powder, lemon juice and jaggery.
+- The mixture should not be too thin.
+- Then take a leaf of olive leaf and spread it all over the mixture.
+- Put another olive leaf on it and mix it.
+- In this way, put 2-3 leaves on top of each other and mix thoroughly on it and roll it tight.
+- When mixing, add a little mixture.
+- Heat the mixture in a pressure cooker for 3-5 minutes.
+- Then take out, thin slices, add some oil in the pan and fry the Shallow Shallow.
+- Then put roasted sesame seeds and cilantro on the elders and feed them with hot tea.
 
 
 

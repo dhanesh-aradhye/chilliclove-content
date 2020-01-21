@@ -14,8 +14,36 @@ tags:
 ###### English
 
 
+#### Dadpe Pohe (for 4 persons)
 
 
+
+##### Ingredients: 
+
+
+- 1 cup thick,
+- 2 tablespoons yogurt,
+- Finely chop 2 medium sized onions,
+- 1 spoon sweet spice,
+- Salt,
+- 1 tablespoon sugar,
+- Half a cup of wet coconut,
+- 1 green chilli,
+- To boil - oil, asafoetida, turmeric, mustard, 3-4 leaves of coriander leaves,
+- Coriander (for decoration)
+
+
+
+
+##### Procedure:
+
+
+
+- Thick pohe should be selected and cleaned.
+- Then wash with water and let it drain completely.
+- Add sweet masala, salt, bacon stocking, coconut taste, onion and yogurt and cook for 5 minutes.
+- Heat oil in a pan, add mustard seeds, asafoetida, turmeric powder, curry leaves and chillies.
+- Put the boil on the swimming pools and lightly fry the finely chopped cilantro.
 
 
 

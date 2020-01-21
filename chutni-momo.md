@@ -15,8 +15,38 @@ tags:
 ###### English
 
 
+#### Chutni for Momos
 
 
+
+##### Ingredients: 
+
+
+- 3-5 red dried chilies (preferably less tangy),
+- 1 medium sized tomato,
+- 1 spoon oil,
+- One tablespoon of finely chopped garlic,
+- Fine spoon of finely chopped ginger,
+- 1 spoon sugar,
+- Salt to taste.
+
+
+
+
+##### Procedure:
+
+
+
+- Take 8 cups water in a pot and boil the chillies in it.
+- Then add a large tomato slices, Cover and boil for 2-3 minutes.
+- Tomatoes should be seasoned.
+- Once it has cooled, turn it into a mixer and make a smooth paste.
+- Then heat oil in a small pan, heat oil, add finely chopped ginger and garlic and saute for 2-3 minutes.
+- Then add tomato and chilli paste and add salt and sugar.
+- Stir this mixture constantly and cook for 2-3 minutes.
+
+
+##### Momos: [veg momos] (/veg-momo)
 
 
 

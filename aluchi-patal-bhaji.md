@@ -14,9 +14,37 @@ tags:
 
 ###### English
 
+#### Aluchi patal bhaji
+
+
+##### Ingredients: 
+
+
+- 2-3 leaves of taro,
+- 3-5 garlic,
+- 5 tablespoons soaked gram pulses,
+- Thin slices of dried coconut,
+- 1 tablespoon soaked peanuts,
+- A pinch and a little more jaggery than a finer lemon,
+- Half a teaspoon of chili,
+- 1 tbsp.
+- Salt to taste,
+- 2 tbsp oil, mustard, cumin, hing, turmeric for boiling.
 
 
 
+
+##### Procedure:
+
+
+
+- Rinse the leaves and chop them finely.
+- Chop the ginger leaves and then chop the stalk.
+- After boiling, add garlic and dry coconut slices and cook for 5 minutes.
+- Then add chopped olive leaves, gram pulses, and groundnuts.
+- Then add water in a bowl and cover with vegetable oil and cook for 3-5 minutes.
+- Then add tamarind coal, jaggery, salt, chili and besan and stir well.
+- Then add 2-3 glasses of water to it and add 2-3 steam.
 
 
 
