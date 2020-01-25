@@ -1,7 +1,7 @@
 ---
 title: "Tilgul Wadi (तिळगुळाच्या वड्या)"
 date: 2019-12-11
-description: "Makar Sankranti special tilgul wadi"
+description: "Makar Sankranti special tilgul wadi (तिळगुळ घ्या, गोड गोड बोला!)"
 type: "post"
 image: "images/masonary-post/alu-wadi.jpg"
 slug: "tilgul-wadi"
@@ -26,16 +26,12 @@ tags:
 ##### Ingredients: 
 
 
-- 2 leaves of taro (medium sized),
-- 2 cups of flour,
-- 1 tablespoon of rice,
-- 1 tbsp jaggery,
-- Tangy and salt to taste,
-- pinch of turmeric,
-- 1 spoon coriander + cumin powder,
-- 1 small lemon juice,
-- 3 tablespoons roasted sesame seeds,
-- Coriander leaves (for decoration)
+- Sesame - 2 cups,
+- Groundnut - 2 cups,
+- Jaggery - 2 cups,
+- Dry coconut grated - 1/2 cup,
+- Desi ghee - 2 tablespoons,
+- Cardamon powder
 
 
 ##### Procedure:
