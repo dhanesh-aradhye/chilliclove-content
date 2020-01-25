@@ -27,7 +27,7 @@ tags:
 
 
 - Sesame - 2 cups
-- Groundnut - 2 cups
+- Peanut - 2 cups
 - Jaggery - 2 cups
 - Dry coconut grated - 1/2 cup
 - Desi ghee - 2 tablespoons
