@@ -1,5 +1,5 @@
 ---
-title: "चिली मशरूमी"
+title: "चिली मशरूम"
 date: 2020-02-10
 description: "Marathi Recipe for chilli mushroom"
 type: "post"
