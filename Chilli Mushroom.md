@@ -1,21 +1,20 @@
 ---
-title: "मँगो कलाकंद"
-date: 2020-01-05
-description: "Marathi Recipe for amba kalakand"
+title: "चिली मशरूमी"
+date: 2020-02-10
+description: "Marathi Recipe for chilli mushroom"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
-slug: "mongo-kalakand"
+slug: "chilli-mushroom"
 categories: 
-  - "Sweets"
+  - "Snack"
 tags:
-  - "Mango"
-  - "Amba"
-  - "Sweet"
-  - "Kalakand"
-  - "Milk"
+  - "Mushroom"
+  - "Chinese"
+  - "Spicy"
+  - "Chilli"
 ---
 
-#### मँगो कलाकंद
+#### चिली मशरूम
 
 
 
