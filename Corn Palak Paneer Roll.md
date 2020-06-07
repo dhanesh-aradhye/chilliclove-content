@@ -1,21 +1,22 @@
 ---
 title: "कॉर्न पालक पनीर रोल"
 date: 2020-01-05
-description: "Marathi Recipe for amba kalakand"
+description: "Marathi Recipe for corn palak paneer  roll"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
-slug: "mongo-kalakand"
+slug: "corn-palak-paneer-roll"
 categories: 
-  - "Sweets"
+  - "Meal"
 tags:
-  - "Mango"
-  - "Amba"
-  - "Sweet"
-  - "Kalakand"
-  - "Milk"
+  - "Corn"
+  - "Palak"
+  - "Paneer"
+  - "Roll"
+  - "Healthy"
+  - "Franky"
 ---
 
-#### मँगो कलाकंद
+#### कॉर्न पालक पनीर रोल
 
 
 
