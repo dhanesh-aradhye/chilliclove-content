@@ -1,46 +1,20 @@
 ---
-title: "Dry Prawns (कोरडे कोळंबी)"
-date: 2019-12-09
-description: "Marathi Recipe for prawns kolimb snacks"
+title: "cooker cake - Type 1"
+date: 2020-04-09
+description: "Marathi Recipe for cake without oven"
 type: "featured"
 image: "images/featured-post/dry-prawns.jpg"
-slug: "dry-prawns"
+slug: "cake-without-oven"
 categories: 
-  - "Sides"
+  - "Sweets"
 tags:
-  - "prawns"
+  - "cake"
+  - "no-oven"
+  - "no-egg"
+  - "sweet"
 ---
 
 ###### English
-
-
-#### Dry Prawns
-
-##### Ingredients: 
-
-
-- Half kg prawns (cleaned and shell removed), 
-- Salt, 
-- Turmeric powder, 
-- Chilli powder, 
-- 2 tablespoons oil, 
-- 1 chopped onion, 
-- 2 teaspoons malvani masala, 
-- Coriander leaves
-
-
-
-##### How to: 
-- Buy prawns cleaned and shell removed.
-- Wash thoroughly in water. Marinate with salt, chilli powder and 
-turmeric powder for at least an hour. Better if 1.5 hours. 
-- Heat oil in kadai and put the marinated prawns.
-- Prawns will release water. 
-- Cook until all water is evaporated. 
-- Reduce flame so that its not burnt. 
-- Once water has evaporated, add some oil, chopped onion, malvani masala. 
-- Switch off after 5 mins. 
-- Keep it covered for 5-10 minutes.
 
 
 
