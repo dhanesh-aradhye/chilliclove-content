@@ -1,19 +1,20 @@
 ---
-title: "Poha-Batata cutlet"
-date: 2020-04-12
+title: "पोहा बटाटा कटलेट (Poha Batata Cutlet)"
+date: 2020-06-15
 description: "Marathi Recipe for poha batata cutlet"
-type: "featured"
+type: "post"
 image: "images/featured-post/dry-prawns.jpg"
 slug: "poha-batata-cutlet"
 categories: 
   - "Snack"
 tags:
-  - "cutlet"
-  - "poha"
-  - "potato"
-  - "batata"
-  - "aloo"
-  - "yummy"
+  - "Cutlet"
+  - "Poha"
+  - "Potato"
+  - "Batata"
+  - "Aloo"
+  - "Yummy"
+  - "Easy"
 ---
 
 ###### English

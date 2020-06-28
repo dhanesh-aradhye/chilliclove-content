@@ -1,5 +1,5 @@
 ---
-title: "Veg Cheese Roll (व्हेज चीझ रोल)"
+title: "व्हेज चीझ रोल (Veg Cheese Roll)"
 date: 2020-01-01
 description: "Marathi Recipe for veg cheese roll"
 type: "post"
@@ -8,28 +8,11 @@ slug: "veg-cheese-roll"
 categories: 
   - "Snacks"
 tags:
-  - "cheese"
+  - "Cheese"
 ---
 
 
 ###### English
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
 
 
 

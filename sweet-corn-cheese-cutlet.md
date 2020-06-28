@@ -1,5 +1,5 @@
 ---
-title: "Sweet Corn Cheese Cutlet (स्वीट कॉर्न चीज कटलेट)"
+title: "स्वीट कॉर्न चीज कटलेट (Sweet Corn Cheese Cutlet)"
 date: 2019-12-20
 description: "Marathi Recipe for sweet corn cutlet maka snacks"
 type: "post"
@@ -8,28 +8,11 @@ slug: "sweet-corn-cheese-cutlet"
 categories: 
   - "Snacks"
 tags:
-  - "sweet-corn"
-  - "cheese"
+  - "Sweet Corn"
+  - "Cheese"
 ---
 
 ###### English
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
 
 
 

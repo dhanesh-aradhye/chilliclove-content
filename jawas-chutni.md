@@ -1,5 +1,5 @@
 ---
-title: "Jawas chutni (जवसाची चटणी)"
+title: "जवसाची चटणी (Jawas Chutni)"
 date: 2019-12-16
 description: "Marathi Recipe for flax chutni also called as jawas chutni"
 type: "post"
@@ -8,29 +8,12 @@ slug: "jawas-chutni"
 categories: 
   - "Sides"
 tags:
-  - "flax"
-  - "jawas"
-  - "chutni"
+  - "Flax"
+  - "Jawas"
+  - "Chutni"
 ---
 
 ###### English
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
-
 
 
 

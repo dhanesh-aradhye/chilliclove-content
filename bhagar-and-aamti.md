@@ -1,20 +1,32 @@
 ---
-title: "भगर व दाण्याची आमटी"
-date: 2019-12-20
+title: "Bhagar and Groundnut amti (भगर व दाण्याची आमटी)"
+date: 2020-01-07
 description: "Marathi Recipe for bhagar and danyachi aamti"
-type: "featured"
-image: "images/featured-post/post-5.jpg"
-slug: "bhagar"
+type: "post"
+image: "images/masonary-post/post-5.jpg"
+slug: "bhagar-amti"
 categories: 
   - "Meal"
+  - "Rice"
 tags:
   - "Bhagar"
   - "Fasting menu"
   - "Danyachi aamti"
   - "Healthy"
   - "Bhagar"
-  - "Waraiche tandul"
+  - "Waraiche Tandul"
 ---
+
+###### English
+
+
+
+
+
+
+
+###### Marathi
+
 
 #### भगर व दाण्याची आमटी  
 

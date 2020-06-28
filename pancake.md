@@ -1,6 +1,6 @@
 ---
 title: "पॅनकेक"
-date: 2019-12-22
+date: 2020-05-25
 description: "Marathi Recipe for pancake"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
@@ -8,11 +8,21 @@ slug: "pancake"
 categories: 
   - "Snack"
 tags:
-  - "pancake"
-  - "healthy"
-  - "wheat cake"
-  - "easy cake"
+  - "Pancake"
+  - "Healthy"
+  - "Wheat Cake"
+  - "Easy"
+  - "Quick Recipe"
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
 
 #### पॅनकेक 
 

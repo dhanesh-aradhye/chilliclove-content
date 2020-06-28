@@ -1,6 +1,6 @@
 ---
-title: "झटपट सोपे व्हेज चीज सँडविच"
-date: 2020-01-30
+title: "झटपट सोपे व्हेज चीज सँडविच (Easy Veg Cheese Sandwich)"
+date: 2020-05-17
 description: "Marathi Recipe for easy veg cheese sandwich"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
@@ -12,8 +12,18 @@ tags:
   - "Cheese"
   - "Sandwich"
   - "Easy"
-  - "Quick recipe"
+  - "Quick Recipe"
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
+
 
 #### झटपट सोपे व्हेज चीज सँडविच
 

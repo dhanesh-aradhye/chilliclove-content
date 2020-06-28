@@ -1,14 +1,14 @@
 ---
-title: "Dry Prawns (कोरडे कोळंबी)"
+title: "कोरडे कोळंबी (Dry Prawns)"
 date: 2019-12-09
-description: "Marathi Recipe for prawns kolimb snacks"
+description: "Marathi Recipe for prawns kolimb snack"
 type: "featured"
 image: "images/featured-post/dry-prawns.jpg"
 slug: "dry-prawns"
 categories: 
-  - "Sides"
+  - "Snack"
 tags:
-  - "prawns"
+  - "Prawns"
 ---
 
 ###### English

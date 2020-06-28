@@ -7,28 +7,12 @@ image: "images/masonary-post/narali-bhat.jpg"
 slug: "narali-bhat"
 categories: 
   - "Dessert"
+  - "Rice"
 tags:
-  - "coconut"
+  - "Coconut"
 ---
 
 ###### English
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
 
 
 

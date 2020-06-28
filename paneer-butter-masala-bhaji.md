@@ -1,5 +1,5 @@
 ---
-title: "Paneer Butter Masala (पनीर बटर मसाला)"
+title: "पनीर बटर मसाला (Paneer Butter Masala)"
 date: 2019-12-12
 description: "Marathi Recipe for paneer butter masala"
 type: "post"
@@ -8,28 +8,11 @@ slug: "paneer-butter-masala"
 categories: 
   - "Bhaji"
 tags:
-  - "paneer"
+  - "Paneer"
 ---
 
 
 ###### English
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
 
 
 

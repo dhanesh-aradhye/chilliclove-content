@@ -1,5 +1,5 @@
 ---
-title: "Palak Paneer (पालक पनीर)"
+title: "पालक पनीर (Palak Paneer)"
 date: 2019-12-26
 description: "Marathi Recipe for palak paneer bhaji"
 type: "post"
@@ -8,27 +8,10 @@ slug: "palak-paneer"
 categories: 
   - "Lunch"
 tags:
-  - "paneer"
+  - "Paneer"
 ---
 
 ###### English
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
 
 
 

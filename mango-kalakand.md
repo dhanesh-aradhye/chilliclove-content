@@ -1,6 +1,6 @@
 ---
-title: "मँगो कलाकंद"
-date: 2020-01-05
+title: "मँगो कलाकंद (Mango Kalakand)"
+date: 2020-05-20
 description: "Marathi Recipe for amba kalakand"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
@@ -14,6 +14,16 @@ tags:
   - "Kalakand"
   - "Milk"
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
+
 
 #### मँगो कलाकंद
 

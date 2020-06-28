@@ -1,17 +1,18 @@
 ---
-title: "cooker cake - Type 1"
-date: 2020-04-09
+title: "कुकर केक प्रकार १ (Cooker Cake - Type 1)"
+date: 2020-06-01
 description: "Marathi Recipe for cake without oven"
-type: "featured"
-image: "images/featured-post/dry-prawns.jpg"
+type: "post"
+image: "images/masonary-post/kankecha-cake.jpg"
 slug: "cake-without-oven"
 categories: 
   - "Sweets"
 tags:
-  - "cake"
-  - "no-oven"
-  - "no-egg"
-  - "sweet"
+  - "Cake"
+  - "No Oven"
+  - "No Egg"
+  - "Sweet"
+  - "Eggless"
 ---
 
 ###### English

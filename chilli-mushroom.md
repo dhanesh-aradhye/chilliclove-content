@@ -1,5 +1,5 @@
 ---
-title: "चिली मशरूम"
+title: "चिली मशरूम (Mushroom Chilli)"
 date: 2020-02-10
 description: "Marathi Recipe for chilli mushroom"
 type: "post"
@@ -13,6 +13,17 @@ tags:
   - "Spicy"
   - "Chilli"
 ---
+
+###### English
+
+
+
+
+
+
+
+###### Marathi
+
 
 #### चिली मशरूम
 

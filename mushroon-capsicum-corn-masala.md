@@ -1,19 +1,19 @@
 ---
-title: "Mushroom capsicum corn masala"
-date: 2020-05-01
-description: "Marathi Recipe for mushroom capsicum corn masala"
-type: "featured"
-image: "images/featured-post/dry-prawns.jpg"
+title: "मशरूम्स सिमला मिरची स्वीटकॉर्न मसाला (Mushroom capsicum corn masala)"
+date: 2020-05-28
+description: "Marathi Recipe for mushroom capsicum corn masala spicy curry"
+type: "post"
+image: "images/masonary-post/post-1.jpg"
 slug: "mushroom-capsicum-corn-masala"
 categories: 
   - "Curry"
 tags:
-  - "mushroom"
-  - "capsicum"
-  - "corn"
-  - "masala"
-  - "gravy"
-  - "curry"
+  - "Mushroom"
+  - "Capsicum"
+  - "Corn"
+  - "Masala"
+  - "Gravy"
+  - "Curry"
 ---
 
 ###### English
@@ -26,7 +26,7 @@ tags:
 ###### Marathi
 
 
-#### कोरडे कोळंबी
+#### मशरूम्स सिमला मिरची स्वीटकॉर्न मसाला
 
 ##### साहित्य: 
 

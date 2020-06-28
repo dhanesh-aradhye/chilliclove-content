@@ -1,17 +1,17 @@
 ---
-title: "Soya Chunks masala"
-date: 2020-04-25
+title: "सोया चंक्स मसाला (Soya Chunks Masala)"
+date: 2020-06-02
 description: "Marathi Recipe for soya chunks masala"
-type: "featured"
+type: "post"
 image: "images/featured-post/dry-prawns.jpg"
 slug: "soya-chunks-masala"
 categories: 
   - "Curry"
 tags:
-  - "soya-chunks"
-  - "soya"
-  - "curry"
-  - "protein-rich"
+  - "Soya Chunks"
+  - "Soya"
+  - "Curry"
+  - "Protein Rich"
 ---
 
 ###### English

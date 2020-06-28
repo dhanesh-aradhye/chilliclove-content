@@ -1,5 +1,5 @@
 ---
-title: "व्हेज बिर्याणी"
+title: "व्हेज बिर्याणी (Veg Biryani)"
 date: 2020-03-01
 description: "Marathi Recipe for veg biryani"
 type: "post"
@@ -7,12 +7,21 @@ image: "images/masonary-post/post-1.jpg"
 slug: "veg-biryani"
 categories: 
   - "Meal"
-tags:
   - "Rice"
+tags:
   - "Vegetable"
   - "Biryani"
-  
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
+
 
 #### व्हेज बिर्याणी
 

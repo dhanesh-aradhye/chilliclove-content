@@ -1,5 +1,5 @@
 ---
-title: "Sweet Corn bhajji (स्वीट कॉर्नची भजी)"
+title: "स्वीट कॉर्नची भजी (Sweet Corn bhajji)"
 date: 2019-12-20
 description: "Marathi Recipe for sweet corn maka bhajji snacks"
 type: "post"
@@ -8,27 +8,11 @@ slug: "sweet-corn-bhajji"
 categories: 
   - "Snacks"
 tags:
-  - "sweet-corn"
+  - "Sweet Corn"
+  - "Fry"
 ---
 
 ###### English
-
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
 
 
 

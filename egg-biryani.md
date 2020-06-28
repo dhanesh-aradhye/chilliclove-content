@@ -1,6 +1,6 @@
 ---
-title: "अंडा बिर्याणी"
-date: 2019-12-20
+title: "अंडा बिर्याणी (Egg Biryani)"
+date: 2020-03-10
 description: "Marathi Recipe for egg biryani"
 type: "post"
 image: "images/masonary-post/post-8.jpg"
@@ -9,11 +9,21 @@ categories:
   - "Rice"
   - "Meal"
 tags:
-  - "egg"
-  - "biryani"
-  - "anda biryani"
-  - "egg biryani"
+  - "Egg"
+  - "Biryani"
+  - "Anda Biryani"
+  - "Egg Biryani"
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
+
 
 #### अंडा बिर्याणी (२ जणांसाठी)
 

@@ -1,5 +1,5 @@
 ---
-title: "Rasgulla (रसगुल्ला)"
+title: "रसगुल्ला (Rasgulla)"
 date: 2019-12-31
 description: "Marathi Recipe for rasgulla"
 type: "post"
@@ -8,27 +8,10 @@ slug: "rasgulla"
 categories: 
   - "Dessert"
 tags:
-  - "rasgulla"
+  - "Rasgulla"
 ---
 
 ###### English
-
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
 
 
 

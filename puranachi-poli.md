@@ -1,5 +1,5 @@
 ---
-title: "Puran Poli (पुरणपोळी)"
+title: "पुरणपोळी (Puran Poli)"
 date: 2019-12-22
 description: "Marathi Recipe for marathmoli puran poli sweet chapati"
 type: "post"
@@ -8,27 +8,10 @@ slug: "puranachi-poli"
 categories: 
   - "Lunch"
 tags:
-  - "puran"
+  - "Puran"
 ---
 
 ###### English
-
-
-
-####
-
-
-
-##### Ingredients: 
-
-
-
-
-
-
-
-##### Procedure:
-
 
 
 

@@ -1,19 +1,29 @@
 ---
-title: "पालक खिचडी"
+title: "पालक खिचडी (Spinach Rice)"
 date: 2020-02-15
-description: "Marathi Recipe for palak khichdi"
+description: "Marathi Recipe for Palak Khichdi or Spinach Rice"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
 slug: "palak-khichdi"
 categories: 
   - "Meal"
+  - "Rice"
 tags:
   - "Palak"
   - "Khichdi"
-  - "Rice"
   - "Healthy"
   - "Delicious"
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
+
 
 #### पालक खिचडी
 

@@ -1,20 +1,30 @@
 ---
-title: "फ्लॉवरची भाजी - प्रकार १"
-date: 2019-12-22
-description: "Marathi Recipe for cauliflower curry"
+title: "फ्लॉवरची भाजी - प्रकार १ (Cauliflower Curry - Type 1)"
+date: 2020-02-03
+description: "Marathi Recipe for Spicy and Tasty cauliflower curry"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
 slug: "flowerchi bhaji"
 categories: 
   - "Curry"
 tags:
-  - "cauliflower"
-  - "bhaji"
-  - "curry"
-  - "black pepper"
-  - "spicy"
-  - "tasty"
+  - "Cauliflower"
+  - "Bhaji"
+  - "Curry"
+  - "Black Pepper"
+  - "Spicy"
+  - "Tasty"
 ---
+
+###### English
+
+
+
+
+
+
+###### Marathi
+
 
 #### फ्लॉवरची भाजी - प्रकार १ 
 
