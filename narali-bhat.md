@@ -1,5 +1,5 @@
 ---
-title: "Coconut Sweet Rice (नारळीभात)"
+title: "नारळीभात (Coconut Sweet Rice)"
 date: 2019-12-19
 description: "Marathi Recipe for Narali bhat or also called coconut sweet rice dish"
 type: "post"

@@ -1,5 +1,5 @@
 ---
-title: "पॅनकेक"
+title: "पॅनकेक (Pancake)"
 date: 2020-05-25
 description: "Marathi Recipe for pancake"
 type: "post"

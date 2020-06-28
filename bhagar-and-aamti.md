@@ -1,5 +1,5 @@
 ---
-title: "Bhagar and Groundnut amti (भगर व दाण्याची आमटी)"
+title: "भगर व दाण्याची आमटी (Bhagar and Groundnut amti)"
 date: 2020-01-07
 description: "Marathi Recipe for bhagar and danyachi aamti"
 type: "post"
