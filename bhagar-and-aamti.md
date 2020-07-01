@@ -3,7 +3,7 @@ title: "भगर व दाण्याची आमटी (Bhagar and Groundnu
 date: 2020-01-07
 description: "Marathi Recipe for bhagar and danyachi aamti"
 type: "post"
-image: "images/masonary-post/post-5.jpg"
+image: "images/masonary-post/bhagar-amti.jpg"
 slug: "bhagar-amti"
 categories: 
   - "Meal"
