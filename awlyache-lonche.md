@@ -1,14 +1,16 @@
 ---
-title: "आवळ्याचे लोणचे (Awalyache Lonche - Pickle)"
+title: "आवळ्याचे लोणचे (Amla Pickle)"
 date: 2019-12-12
 description: "Marathi Recipe for awalyche lonche also called as amla pickle"
 type: "post"
 image: "images/masonary-post/awlyache-loncha.jpg"
 slug: "awlyache-loncha"
 categories: 
-  - "Pickle"
+  - "Side dish"
 tags:
   - "Awla"
+  - "Amla"
+  - "Pickle"
 ---
 
 
@@ -33,14 +35,14 @@ tags:
 ##### साहित्य: 
 
 
-- पाव किलो आवळे (साधारणपणे ९-१० येतात),  
-- ४ टेबलस्पून मीठ, 
-- ३ टीस्पून मोहरी, 
-- २ टीस्पून तळलेले मेथीदाणे, 
-- २ टीस्पून तिखट, 
-- फोडणीसाठी ४ चमचे तेल, 
-- १ टीस्पून हिंग, 
-- १ टीस्पून हळद. 
+- पाव किलो आवळे (साधारणपणे ९-१० येतात)  
+- ४ टेबलस्पून मीठ 
+- ३ टीस्पून मोहरी 
+- २ टीस्पून तळलेले मेथीदाणे 
+- २ टीस्पून तिखट 
+- फोडणीसाठी ४ चमचे तेल 
+- १ टीस्पून हिंग 
+- १ टीस्पून हळद 
 
 
 
