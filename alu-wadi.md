@@ -6,7 +6,7 @@ type: "post"
 image: "images/masonary-post/alu-wadi.jpg"
 slug: "alu-wadi"
 categories: 
-  - "Snacks"
+  - "Snack"
 tags:
   - "Taro Leaves"
   - "Alu Wadi"
