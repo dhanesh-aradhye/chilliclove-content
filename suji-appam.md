@@ -1,5 +1,5 @@
 ---
-title: "रव्याचे आप्पे  (Suji Appam)"
+title: "रव्याचे आप्पे (Suji Appam)"
 date: 2020-06-18
 description: "Marathi Recipe for suji appam"
 type: "post"
