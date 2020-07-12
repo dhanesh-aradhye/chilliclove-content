@@ -6,7 +6,7 @@ type: "post"
 image: "images/masonary-post/aluchi-patal-bhaji.jpg"
 slug: "aluchi-patal-bhaji"
 categories: 
-  - "Lunch"
+  - "Curry"
 tags:
   - "Taro Leaves"
   - "Alu Bhaji"
