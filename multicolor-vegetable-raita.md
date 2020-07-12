@@ -1,19 +1,18 @@
 ---
-title: "कॉर्न पालक पनीर रोल (Corn Spinach Paneer Roll)"
+title: "रंगीबेरंगी कोशिंबीर (Multicolor Vegetable Raita)"
 date: 2020-05-30
-description: "Marathi Recipe for corn palak paneer roll"
+description: "Marathi Recipe for multicolor vegetable raita"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
 slug: "corn-palak-paneer-roll"
 categories: 
-  - "Meal"
+  - "Salad"
 tags:
-  - "Corn"
-  - "Palak"
-  - "Paneer"
-  - "Roll"
-  - "Healthy"
-  - "Franky"
+  - "Raita"
+  - "Franch beans"
+  - "Cauliflower"
+  - "Carrot"
+  - "Curd"
 ---
 
 ###### English
