@@ -1,7 +1,7 @@
 ---
-title: "अळूची पातळ भाजी (Aluchi bhaji)"
+title: "अळूची पातळ भाजी (Taro Leaves Curry)"
 date: 2019-12-10
-description: "Marathi Recipe for aluchi patal bhaji also called as taro leaves bhaji"
+description: "Marathi Recipe for aluchi patal bhaji also called as taro leaves curry"
 type: "post"
 image: "images/masonary-post/aluchi-patal-bhaji.jpg"
 slug: "aluchi-patal-bhaji"
@@ -33,15 +33,15 @@ tags:
 ##### साहित्य: 
 
 
-- अळूची ४-५ पाने, 
-- ४-५ लसूण पाकळ्या, 
-- १ टेबलस्पून भिजवलेली हरभरा डाळ, 
-- पाव वाटी सुक्या खोबऱ्याचे पातळ काप,
-- १ टेबलस्पून भिजवलेले शेंगदाणे, 
-- एका बारीक लिंबाएवढी चिंच व त्याहून किंचित जास्त गूळ,
-- अर्धा टीस्पून तिखट,
-- २ टेबलस्पून बेसन,
-- चवीनुसार मीठ,
+- अळूची ४-५ पाने 
+- ४-५ लसूण पाकळ्या 
+- १ टेबलस्पून भिजवलेली हरभरा डाळ 
+- पाव वाटी सुक्या खोबऱ्याचे पातळ काप
+- १ टेबलस्पून भिजवलेले शेंगदाणे 
+- एका बारीक लिंबाएवढी चिंच व त्याहून किंचित जास्त गूळ
+- अर्धा टीस्पून तिखट
+- २ टेबलस्पून बेसन
+- चवीनुसार मीठ
 - फोडणीसाठी २ चमचे तेल, मोहरी, जिरे, हिंग, हळद. 
 
 
