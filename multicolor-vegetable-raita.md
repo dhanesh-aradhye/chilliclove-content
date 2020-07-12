@@ -1,10 +1,10 @@
 ---
 title: "रंगीबेरंगी कोशिंबीर (Multicolor Vegetable Raita)"
-date: 2020-05-30
+date: 2020-06-14
 description: "Marathi Recipe for multicolor vegetable raita"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
-slug: "corn-palak-paneer-roll"
+slug: "multicolor-vegetable-raita"
 categories: 
   - "Salad"
 tags:
@@ -25,7 +25,7 @@ tags:
 ###### Marathi
 
 
-#### कॉर्न पालक पनीर रोल
+#### रंगीबेरंगी कोशिंबीर
 
 
 
