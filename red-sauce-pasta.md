@@ -3,7 +3,7 @@ title: "रेड सॉस पास्ता (Red Sauce Pasta)"
 date: 2020-01-30
 description: "Marathi Recipe for pasta in red sause"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/red_sauce_pasta.jpg"
 slug: "red sauce pasta"
 categories: 
   - "Snack"

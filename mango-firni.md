@@ -3,7 +3,7 @@ title: "मँगो फिरनी (Mango Firni)"
 date: 2020-06-28
 description: "Marathi Recipe for mango firni"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/mango_firni.jpg"
 slug: "mango-firni"
 categories: 
   - "Dessert"

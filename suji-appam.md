@@ -1,9 +1,9 @@
 ---
 title: "रव्याचे आप्पे (Suji Appam)"
 date: 2020-06-18
-description: "Marathi Recipe for suji appam"
+description: "Marathi Recipe for suji (Rawa) appam"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/ravyache_appe.jpg"
 slug: "suji-appam"
 categories: 
   - "Snack"

@@ -3,7 +3,7 @@ title: "मसाला इडली (Masala Idli)"
 date: 2019-12-30
 description: "Marathi Recipe for masala idli snacks"
 type: "post"
-image: "images/masonary-post/masala-idli.jpg"
+image: "images/masonary-post/chilli_idli.jpg"
 slug: "masala-idli"
 categories: 
   - "Snacks"

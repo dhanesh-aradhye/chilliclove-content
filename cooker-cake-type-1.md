@@ -3,7 +3,7 @@ title: "कुकर केक प्रकार १ (Cooker Cake - Type 1)"
 date: 2020-06-01
 description: "Marathi Recipe for cake without oven"
 type: "post"
-image: "images/masonary-post/kankecha-cake.jpg"
+image: "images/masonary-post/marble_cake.jpg"
 slug: "cake-without-oven"
 categories: 
   - "Sweets"

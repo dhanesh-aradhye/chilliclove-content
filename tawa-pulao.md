@@ -3,7 +3,7 @@ title: "तवा पुलाव (Tawa Puloa)"
 date: 2019-12-30
 description: "Marathi Recipe for Tawa Pulao rice dish"
 type: "post"
-image: "images/masonary-post/tawa-pulao.jpg"
+image: "images/masonary-post/tava_pulao.jpg"
 slug: "tawa-pulao"
 categories: 
   - "Lunch"

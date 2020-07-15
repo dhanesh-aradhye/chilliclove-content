@@ -3,7 +3,7 @@ title: "स्वीटकॉर्न पुलाव (Sweetcorn Pulao)"
 date: 2020-07-05
 description: "Marathi Recipe for sweetcorn pulao"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/sweetcorn_pulao.jpg"
 slug: "sweetcorn-pulao"
 categories: 
   - "Rice"

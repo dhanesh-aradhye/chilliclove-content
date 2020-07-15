@@ -3,7 +3,7 @@ title: "स्पॉंज डोसा (Sponge Dosa)"
 date: 2020-06-21
 description: "Marathi Recipe for sponge dosa"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/sponge_dosa.jpg"
 slug: "sponge-dosa"
 categories: 
   - "Snack"

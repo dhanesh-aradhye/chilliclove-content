@@ -3,7 +3,7 @@ title: "आवळ्याचे लोणचे (Amla Pickle)"
 date: 2019-12-12
 description: "Marathi Recipe for awalyche lonche also called as amla pickle"
 type: "post"
-image: "images/masonary-post/awlyache-loncha.jpg"
+image: "images/masonary-post/mix_veg_pickle.jpg"
 slug: "awlyache-loncha"
 categories: 
   - "Side dish"

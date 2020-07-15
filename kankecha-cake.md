@@ -3,7 +3,7 @@ title: "कणकेचा केक (Wheat Cake)"
 date: 2019-12-13
 description: "Marathi Recipe for kankecha cake or wheat cake"
 type: "post"
-image: "images/masonary-post/kankecha-cake.jpg"
+image: "images/masonary-post/kankecha_cake.jpg"
 slug: "kankecha-cake"
 categories: 
   - "Snacks"

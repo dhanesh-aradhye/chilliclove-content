@@ -3,7 +3,7 @@ title: "व्हेज बिर्याणी (Veg Biryani)"
 date: 2020-03-01
 description: "Marathi Recipe for veg biryani"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/veg_biryani.jpg"
 slug: "veg-biryani"
 categories: 
   - "Meal"

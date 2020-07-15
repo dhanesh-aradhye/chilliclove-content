@@ -3,7 +3,7 @@ title: "कॉर्न मेयो सलाड (Corn Mayo Salad)"
 date: 2020-07-10
 description: "Marathi Recipe for corn mayo salad"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/corn-salad.jpg"
 slug: "corn-mayo-salad"
 categories: 
   - "Salad"

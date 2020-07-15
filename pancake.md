@@ -3,7 +3,7 @@ title: "पॅनकेक (Pancake)"
 date: 2020-05-25
 description: "Marathi Recipe for pancake"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/pancake.jpg"
 slug: "pancake"
 categories: 
   - "Snack"

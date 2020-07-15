@@ -2,8 +2,8 @@
 title: "व्हेज मोमोज (Veg Momos)"
 date: 2019-12-20
 description: "Marathi Recipe for veg Momo"
-type: "featured"
-image: "images/featured-post/veg-momo.jpg"
+type: "post"
+image: "images/masonary-post/veg_momos.jpg"
 slug: "veg-momos"
 categories: 
   - "Snack"

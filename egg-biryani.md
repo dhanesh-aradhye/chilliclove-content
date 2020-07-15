@@ -3,7 +3,7 @@ title: "अंडा बिर्याणी (Egg Biryani)"
 date: 2020-03-10
 description: "Marathi Recipe for egg biryani"
 type: "post"
-image: "images/masonary-post/post-8.jpg"
+image: "images/masonary-post/egg_biryani.jpg"
 slug: "egg biryani"
 categories: 
   - "Rice"

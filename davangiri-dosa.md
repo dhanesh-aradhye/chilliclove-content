@@ -3,7 +3,7 @@ title: "दावणगिरी डोसा (Davangiri Dosa)"
 date: 2019-12-18
 description: "Marathi Recipe for davangiri loni dosa"
 type: "post"
-image: "images/masonary-post/davangiri-dosa.jpg"
+image: "images/masonary-post/davangiri_dosa.jpg"
 slug: "davangiri-dosa"
 categories: 
   - "Lunch"

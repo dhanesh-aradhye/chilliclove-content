@@ -2,8 +2,8 @@
 title: "मटर पनीर (Matar Paneer)"
 date: 2019-12-25
 description: "Marathi Recipe for matar paneer bhaji"
-type: "featured"
-image: "images/featured-post/matar-paneer.jpg"
+type: "post"
+image: "images/masonary-post/mutter_paneer.jpg"
 slug: "matar-paneer"
 categories: 
   - "Lunch"

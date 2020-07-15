@@ -2,8 +2,8 @@
 title: "कोरडे कोळंबी (Dry Prawns)"
 date: 2019-12-09
 description: "Marathi Recipe for prawns kolimb snack"
-type: "featured"
-image: "images/featured-post/dry-prawns.jpg"
+type: "post"
+image: "images/masonary-post/dry-prawns.jpg"
 slug: "dry-prawns"
 categories: 
   - "Snack"

@@ -3,7 +3,7 @@ title: "रंगीबेरंगी कोशिंबीर (Multicolor Vege
 date: 2020-06-14
 description: "Marathi Recipe for multicolor vegetable raita"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/multicolor_veg_raita.jpg"
 slug: "multicolor-vegetable-raita"
 categories: 
   - "Salad"

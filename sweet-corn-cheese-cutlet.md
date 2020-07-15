@@ -1,5 +1,5 @@
 ---
-title: "स्वीट कॉर्न चीझ कटलेट (Sweet Corn Cheese Cutlet)"
+title: "स्वीट कॉर्न चीज कटलेट (Sweet Corn Cheese Cutlet)"
 date: 2019-12-20
 description: "Marathi Recipe for sweet corn cutlet maka snacks"
 type: "post"
@@ -26,7 +26,7 @@ tags:
 
 
 
-#### स्वीट कॉर्न चीझ कटलेट 
+#### स्वीट कॉर्न चीज कटलेट 
 
 
 
@@ -40,7 +40,7 @@ tags:
 - मूठभर कोथिंबीर बारीक चिरून,
 - ३ चमचे बेसन,
 - ४ चमचे तांदुळाचे पीठ,
-- 2 अमूल चीझ क्यूब,
+- १ अमूल बटरचा क्यूब,
 - चवीनुसार मीठ,
 - २-३ चमचे तेल. 
 

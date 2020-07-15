@@ -3,7 +3,7 @@ title: "कॉर्न पालक पनीर रोल (Corn Spinach Paneer
 date: 2020-05-30
 description: "Marathi Recipe for corn palak paneer roll"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/spinach_corn_paneer_roll.jpg"
 slug: "corn-palak-paneer-roll"
 categories: 
   - "Meal"

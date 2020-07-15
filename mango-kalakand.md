@@ -3,7 +3,7 @@ title: "मँगो कलाकंद (Mango Kalakand)"
 date: 2020-05-20
 description: "Marathi Recipe for amba kalakand"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/mango_kalakand.jpg"
 slug: "mongo-kalakand"
 categories: 
   - "Sweets"
