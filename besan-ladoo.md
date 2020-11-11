@@ -1,17 +1,15 @@
 ---
-title: "गाजर हलवा (Gajar Halwa)"
-date: 2020-07-19
-description: "Marathi Recipe for gajar halwa"
+title: "बेसन लाडू (Besan Ladoo)"
+date: 2020-11-01
+description: "Marathi Recipe for besan ladoo"
 type: "post"
 image: "images/masonary-post/corn-salad.jpg"
-slug: "gajar-halwa"
+slug: "besan-ladoo"
 categories: 
   - "Dessert"
 tags:
   - "Sweets"
-  - "Halwa"
-  - "Gajar"
-  - "Carrot"
+  - "Diwali"
 ---
 
 ###### English
@@ -24,7 +22,7 @@ tags:
 ###### Marathi
 
 
-#### गाजर हलवा 
+#### बेसन लाडू 
 
 
 ##### साहित्य:
