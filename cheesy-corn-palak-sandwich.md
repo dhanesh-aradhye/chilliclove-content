@@ -1,15 +1,15 @@
 ---
-title: "बेसन लाडू (Besan Ladoo)"
-date: 2020-11-01
-description: "Marathi Recipe for besan ladoo"
+title: "कॉर्न पालक सँडविच (Cheesy Corn Spinach Sandwich)"
+date: 2020-12-01
+description: "Marathi Recipe for corn palak sandwich"
 type: "post"
 image: "images/masonary-post/corn-salad.jpg"
-slug: "besan-ladoo"
+slug: "cheesy-corn-palak-sandwich"
 categories: 
-  - "Dessert"
+  - "Snack"
 tags:
-  - "Sweets"
-  - "Diwali"
+  - "Cheese"
+  - "Spinach"
 ---
 
 ###### English
