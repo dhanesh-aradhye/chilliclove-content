@@ -1,15 +1,17 @@
 ---
-title: "बेसन लाडू (Besan Ladoo)"
-date: 2020-11-01
-description: "Marathi Recipe for besan ladoo"
+title: "गुळाची पोळी (Gulachi Poli)"
+date: 2021-01-14
+description: "Marathi Recipe for gulachi poli"
 type: "post"
 image: "images/masonary-post/corn-salad.jpg"
-slug: "besan-ladoo"
+slug: "gulachi-poli"
 categories: 
   - "Dessert"
 tags:
   - "Sweets"
-  - "Diwali"
+  - "Sankranti"
+  - "Tilgul"
+  - "Pongal"
 ---
 
 ###### English
@@ -22,17 +24,21 @@ tags:
 ###### Marathi
 
 
-#### बेसन लाडू 
+#### गुळाची पोळी
 
 
 ##### साहित्य:
 
-- ४ वाट्या बेसन 
-- २ वाट्या पिठीसाखर 
-- दीड वाटी साजूक तूप
-- पाऊण वाटी कोमट दूध  
-- अर्धे जायफळ (किसून)
-- बेदाणे 
+- २ वाट्या बारीक चिरलेला गूळ 
+- दीड वाटी तीळ 
+- ५-६ वेलदोडे 
+- १ टेबलस्पून बेसन 
+- १ टीस्पून खसखस 
+- बेसन भिजेल इतके तूप 
+- ४ वाट्या कणिक 
+- १ चमचा तेल
+- पाव टीस्पून मीठ 
+- १ टेबलस्पून तांदळाची पिठी 
 
 ##### कृती: 
 
