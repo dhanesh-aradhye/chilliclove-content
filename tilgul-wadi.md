@@ -1,15 +1,16 @@
 ---
-title: "बेसन लाडू (Besan Ladoo)"
-date: 2020-11-01
-description: "Marathi Recipe for besan ladoo"
+title: "तिळगुळाच्या वड्या (Tilgul Wadi)"
+date: 2021-01-13
+description: "Marathi Recipe for tilgul wadi"
 type: "post"
 image: "images/masonary-post/corn-salad.jpg"
-slug: "besan-ladoo"
+slug: "tilgulachya-wadya"
 categories: 
   - "Dessert"
 tags:
   - "Sweets"
-  - "Diwali"
+  - "Makar Sankranti"
+  - "Tilgul"
 ---
 
 ###### English
@@ -22,7 +23,7 @@ tags:
 ###### Marathi
 
 
-#### बेसन लाडू 
+#### तिळगुळाच्या वड्या 
 
 
 ##### साहित्य:
