@@ -1,9 +1,9 @@
 ---
 title: "तिळगुळाच्या वड्या (Tilgul Wadi)"
 date: 2021-01-13
-description: "Marathi Recipe for tilgul wadi"
+description: "Marathi and English Recipe for tilgul wadi"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "tilgulachya-wadya"
 categories: 
   - "Dessert"
@@ -13,14 +13,16 @@ tags:
   - "Tilgul"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### तिळगुळाच्या वड्या 
@@ -52,3 +54,6 @@ tags:
 - मग गॅस बंद करून त्यामध्ये शेंगदाणे-तिळाचे मिश्रण घालून नीट एकजीव होईपर्यंत हलवून घ्यावे. 
 - एका ताटाला तुपाचा हात लावून गरम गरम वड्या पाडाव्यात. 
 
+
+
+ {{% /postlang %}}

@@ -1,7 +1,7 @@
 ---
 title: "जवसाची चटणी (Jawas Chutni)"
 date: 2019-12-16
-description: "Marathi Recipe for flax chutni also called as jawas chutni"
+description: "Marathi and English Recipe for flax chutni also called as jawas chutni"
 type: "post"
 image: "images/masonary-post/jawas-chutni.jpg"
 slug: "jawas-chutni"
@@ -13,7 +13,9 @@ tags:
   - "Chutni"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -21,8 +23,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -48,3 +49,5 @@ tags:
 - भाजताना सतत चमच्याने हलवत राहावे म्हणजे जवस करपणार नाहीत. 
 - मग जवस गार झाल्यावर, प्रथम मिक्सर मध्ये मीठ, जिरे, भाजलेल्या मिरच्या बारीक करून घ्यावेत व 
 - त्यामध्ये नंतर जवस घालून बारीक करावे. खमंग जवसाची चटणी तयार.
+
+ {{% /postlang %}}

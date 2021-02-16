@@ -1,7 +1,7 @@
 ---
 title: "दावणगिरी डोसा (Davangiri Dosa)"
 date: 2019-12-18
-description: "Marathi Recipe for davangiri loni dosa"
+description: "Marathi and English Recipe for davangiri loni dosa"
 type: "post"
 image: "images/masonary-post/davangiri_dosa.jpg"
 slug: "davangiri-dosa"
@@ -11,7 +11,9 @@ tags:
   - "Dosa"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -56,3 +57,5 @@ tags:
 - मिश्रण व्यवस्थित पातळ असावे व डोसा घालताना ते आपोआप पसरले जावे.
 - डोसा पळीने पसरवल्यास त्याचे टेक्स्चर बिघडते.
 - डोसा एका बाजूने वाळत आला कि मग त्याला व्यवस्थित लोणी लावून डोसा पलटणे व दुसऱ्या बाजूने पण झाकण ठेवून खरपूस भाजून घेणे.
+
+ {{% /postlang %}}

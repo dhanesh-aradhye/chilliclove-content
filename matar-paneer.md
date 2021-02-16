@@ -1,7 +1,7 @@
 ---
 title: "मटर पनीर (Matar Paneer)"
 date: 2019-12-25
-description: "Marathi Recipe for matar paneer bhaji"
+description: "Marathi and English Recipe for matar paneer bhaji"
 type: "post"
 image: "images/masonary-post/mutter_paneer.jpg"
 slug: "matar-paneer"
@@ -11,7 +11,9 @@ tags:
   - "Paneer"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -71,3 +72,5 @@ tags:
 - फ्रोझन मटार टाकावे. झाकण ठेवून भाजी १० मिनिटे नीट शिजवणे.
 - मग त्यात २ चमचे फ्रेश मलई टाकून नीट ढवळून ५ मिनिटे शिजवणे.
 - नंतर गॅस बंद करून चिरलेली कोथिंबीर टाकून भाजी पोळी किंवा पराठ्या बरोबर सर्व करावी.
+
+ {{% /postlang %}}

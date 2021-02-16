@@ -1,7 +1,7 @@
 ---
 title: "पनीर बटर मसाला (Paneer Butter Masala)"
 date: 2019-12-12
-description: "Marathi Recipe for paneer butter masala"
+description: "Marathi and English Recipe for paneer butter masala"
 type: "post"
 image: "images/masonary-post/paneer-butter-masala.jpg"
 slug: "paneer-butter-masala"
@@ -12,7 +12,9 @@ tags:
 ---
 
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -68,3 +69,5 @@ tags:
 - नंतर त्यामध्ये दीड ग्लास पाणी टाकावे.
 - भाजीला उकळी आली कि मग त्यामध्ये पनीर चे चौकोनी तुकडे टाकून १०-१५ मिनिटे भाजी झाकण ठेवून शिजवणे.
 - भाजी शिजवताना मधून मधून हलवावी.
+
+ {{% /postlang %}}

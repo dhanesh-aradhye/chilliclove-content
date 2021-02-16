@@ -1,7 +1,7 @@
 ---
 title: "स्वीट कॉर्नची भजी (Sweet Corn bhajji)"
 date: 2019-12-20
-description: "Marathi Recipe for sweet corn maka bhajji snacks"
+description: "Marathi and English Recipe for sweet corn maka bhajji snacks"
 type: "post"
 image: "images/masonary-post/sweet-corn-bhajji.jpg"
 slug: "sweet-corn-bhajji"
@@ -12,7 +12,9 @@ tags:
   - "Fry"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -52,3 +53,5 @@ tags:
 
 
 ##### कटलेट: [स्वीट कॉर्न चीज कटलेट](/sweet-corn-cheese-cutlet) 
+
+ {{% /postlang %}}

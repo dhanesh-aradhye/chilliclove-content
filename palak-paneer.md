@@ -1,7 +1,7 @@
 ---
 title: "पालक पनीर (Palak Paneer)"
 date: 2019-12-26
-description: "Marathi Recipe for palak paneer bhaji"
+description: "Marathi and English Recipe for palak paneer bhaji"
 type: "post"
 image: "images/masonary-post/palak-paneer.jpg"
 slug: "palak-paneer"
@@ -11,7 +11,9 @@ tags:
   - "Paneer"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -59,3 +60,5 @@ tags:
 - मग त्यात पालक प्युरी घालून छान ढवळणे व १ ते दीड वाटी पाणी घालणे.
 - नंतर त्यात धने जिरे पूड, काजूची पूड, गरम मसाला, साखर व चवीनुसार मीठ घालून उकळी आणणे.
 - त्यानंतर पनीर चे क्युब्स टाकून झाकण ठेवून भाजी १०-१५ मिनिटे शिजवणे.
+
+ {{% /postlang %}}

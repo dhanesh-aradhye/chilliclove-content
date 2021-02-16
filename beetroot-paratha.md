@@ -1,9 +1,9 @@
 ---
 title: "बीटरूट पराठा (Beetroot Paratha)"
 date: 2020-12-19
-description: "Marathi Recipe for beetroot paratha"
+description: "Marathi and English Recipe for beetroot paratha"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "beetroot-paratha"
 categories: 
   - "Meal"
@@ -12,14 +12,16 @@ tags:
   - "Beetroot"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### बीटरूट पराठा 
@@ -49,3 +51,4 @@ tags:
 - हे पराठे अतिशय रुचकर लागतात. 
 
 
+ {{% /postlang %}}

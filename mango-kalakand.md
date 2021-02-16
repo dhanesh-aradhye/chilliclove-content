@@ -1,7 +1,7 @@
 ---
 title: "मँगो कलाकंद (Mango Kalakand)"
 date: 2020-05-20
-description: "Marathi Recipe for amba kalakand"
+description: "Marathi and English Recipe for amba kalakand"
 type: "post"
 image: "images/masonary-post/mango_kalakand.jpg"
 slug: "mongo-kalakand"
@@ -15,14 +15,16 @@ tags:
   - "Milk"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मँगो कलाकंद
@@ -43,3 +45,5 @@ tags:
 - मधून मधून सतत हलवत राहावे.
 - कलाकंद छान कोरडा होण्यासाठी साधारणपणे अर्धा तास लागतो 
 - कलाकंद झाल्यावर वरून बदामाचे काप घालून छान सजवावा. 
+
+ {{% /postlang %}}

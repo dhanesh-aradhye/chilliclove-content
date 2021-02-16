@@ -1,7 +1,7 @@
 ---
 title: "व्हेज मोमोज (Veg Momos)"
 date: 2019-12-20
-description: "Marathi Recipe for veg Momo"
+description: "Marathi and English Recipe for veg Momo"
 type: "post"
 image: "images/masonary-post/veg_momos.jpg"
 slug: "veg-momos"
@@ -11,7 +11,9 @@ tags:
   - "Momo"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -62,3 +63,5 @@ tags:
 > टीप: उकडल्यावर मोमोज खूप फुगतात.
 
 ##### चटणी: [मोमो साठी चटणी](/chutni-momo) 
+
+ {{% /postlang %}}

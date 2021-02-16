@@ -1,7 +1,7 @@
 ---
 title: "व्हेज बिर्याणी (Veg Biryani)"
 date: 2020-03-01
-description: "Marathi Recipe for veg biryani"
+description: "Marathi and English Recipe for veg biryani"
 type: "post"
 image: "images/masonary-post/veg_biryani.jpg"
 slug: "veg-biryani"
@@ -13,14 +13,16 @@ tags:
   - "Biryani"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### व्हेज बिर्याणी
@@ -73,3 +75,6 @@ tags:
 - मग राहिलेले पनीरचे तुकडे टाकून त्यावर परत तळलेला कांदा, पुदिना व कोथिंबीर टाकावे. 
 - नंतर त्यावर घट्ट बसेल असे झाकण ठेवून बिर्याणी १० मिनिटे शिजवावी. बिर्याणी शिजवताना हलवू नये. 
 
+
+
+ {{% /postlang %}}

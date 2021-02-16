@@ -1,9 +1,9 @@
 ---
 title: "गाजर हलवा (Gajar Halwa)"
 date: 2020-07-19
-description: "Marathi Recipe for gajar halwa"
+description: "Marathi and English Recipe for gajar halwa"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/gajar_halwa.jpg"
 slug: "gajar-halwa"
 categories: 
   - "Dessert"
@@ -14,14 +14,15 @@ tags:
   - "Carrot"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### गाजर हलवा 
@@ -49,3 +50,4 @@ tags:
 
 टीप : गाजरे गोड असल्यास जरा कमी साखर वापरावी. 
 
+ {{% /postlang %}}

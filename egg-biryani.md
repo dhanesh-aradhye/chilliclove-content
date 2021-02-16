@@ -1,7 +1,7 @@
 ---
 title: "अंडा बिर्याणी (Egg Biryani)"
 date: 2020-03-10
-description: "Marathi Recipe for egg biryani"
+description: "Marathi and English Recipe for egg biryani"
 type: "post"
 image: "images/masonary-post/egg_biryani.jpg"
 slug: "egg biryani"
@@ -15,14 +15,16 @@ tags:
   - "Egg Biryani"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### अंडा बिर्याणी (२ जणांसाठी)
@@ -65,3 +67,4 @@ tags:
 - मग त्यावर शिजवलेला भात टाकून परत तळलेला कांदा, कोथिंबीर, व पुदिना टाकावा. 
 - मग झाकण ठेवून १० मिनिटे वाफ आणावी. वाफ आणताना मधून मधून बिर्याणी हलवू नये. 
 
+ {{% /postlang %}}

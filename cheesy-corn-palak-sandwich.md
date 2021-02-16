@@ -1,9 +1,9 @@
 ---
 title: "कॉर्न पालक सँडविच (Cheesy Corn Spinach Sandwich)"
 date: 2020-12-01
-description: "Marathi Recipe for corn palak sandwich"
+description: "Marathi and English Recipe for corn palak sandwich"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "cheesy-corn-palak-sandwich"
 categories: 
   - "Snack"
@@ -12,14 +12,16 @@ tags:
   - "Spinach"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### कॉर्न पालक सँडविच 
@@ -53,3 +55,4 @@ tags:
 - हे सँडविच अतिशय रुचकर व पौष्टिक आहे.   
 
 
+ {{% /postlang %}}

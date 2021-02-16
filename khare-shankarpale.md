@@ -1,9 +1,9 @@
 ---
 title: "खारे शंकरपाळे (Khare Shankarpale)"
 date: 2020-11-02
-description: "Marathi Recipe for khare shankarpale"
+description: "Marathi and English Recipe for khare shankarpale"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "khare-shankarpale"
 categories: 
   - "Snack"
@@ -12,14 +12,16 @@ tags:
   - "Diwali"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### खारे शंकरपाळे 
@@ -47,3 +49,4 @@ tags:
 - ह्या शंकरपाळ्या खूप चविष्ट लागतात आणि खूप पटकन होतात. 
  
 
+ {{% /postlang %}}

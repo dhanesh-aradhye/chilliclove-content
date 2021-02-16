@@ -1,7 +1,7 @@
 ---
 title: "कॉर्न मेयो सलाड (Corn Mayo Salad)"
 date: 2020-07-10
-description: "Marathi Recipe for corn mayo salad"
+description: "Marathi and English Recipe for corn mayo salad"
 type: "post"
 image: "images/masonary-post/corn-salad.jpg"
 slug: "corn-mayo-salad"
@@ -12,14 +12,15 @@ tags:
   - "Salads"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### कॉर्न मेयो सलाड
@@ -42,3 +43,6 @@ tags:
 - कांदा जमेल तितका बारीक चिरून घ्यावा. 
 - स्वीटकॉर्नचे उकडलेले दाणे, मिरेपूड, मीठ, टोमॅटो, कांदा सर्व एकत्र एका बाऊलमध्ये घेऊन त्यावर वरून मेयोनीज टाकून नीट मिक्स करून घ्यावे. 
 - मस्त क्रिमी सलाड तयार आहे. 
+
+
+ {{% /postlang %}}

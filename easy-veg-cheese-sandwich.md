@@ -1,9 +1,9 @@
 ---
 title: "झटपट सोपे व्हेज चीज सँडविच (Easy Veg Cheese Sandwich)"
 date: 2020-05-17
-description: "Marathi Recipe for easy veg cheese sandwich"
+description: "Marathi and English Recipe for easy veg cheese sandwich"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
+image: "images/masonary-post/sope_veg_cheese_sandwich.jpg"
 slug: "easy-veg-cheese-sandwich"
 categories: 
   - "Snack"
@@ -15,14 +15,16 @@ tags:
   - "Quick Recipe"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### झटपट सोपे व्हेज चीज सँडविच
@@ -56,3 +58,4 @@ tags:
 - एक पॅन गरम करून, त्यामध्ये बटर सोडून सँडविच दोन्ही बाजूने खरपूस भाजावे. 
 - सँडविच भाजताना झाकण ठेवावे. 
 
+ {{% /postlang %}}

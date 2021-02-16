@@ -1,7 +1,7 @@
 ---
 title: "अळूच्या वड्या (Alu Wadi)"
 date: 2019-12-11
-description: "Marathi Recipe for alu wadi also called as taro leaves"
+description: "Marathi and English Recipe for alu wadi also called as taro leaves"
 type: "post"
 image: "images/masonary-post/alu-wadi.jpg"
 slug: "alu-wadi"
@@ -12,7 +12,9 @@ tags:
   - "Alu Wadi"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -62,3 +63,6 @@ tags:
 - हि गुंडाळी प्रेशर कुकर मध्ये शिट्टी ना लावता १०-१२ मिनिटे वाफवावी.
 - त्यांनंतर बाहेर काढून, पातळ काप करून तव्या मध्ये थोडेसे तेल टाकून खरपूस शॅलो फ्राय करावी.
 - मग वड्यांवर भाजलेले तीळ व कोथिंबीर टाकून गरम गरम चहासोबत खायला द्यावे.
+
+
+ {{% /postlang %}}

@@ -1,9 +1,9 @@
 ---
 title: "शेवयाची खीर (Semiya Kheer)"
 date: 2020-08-10
-description: "Marathi Recipe for semiya kheer"
+description: "Marathi and English Recipe for semiya kheer"
 type: "post"
-image: "images/masonary-post/egg_biryani.jpg"
+image: "images/masonary-post/shevayachi_kheer.jpg"
 slug: "semiya-kheer"
 categories: 
   - "Dessert"
@@ -11,17 +11,22 @@ tags:
   - "Kheer"
   - "Semiya"
   - "Shevai"
+
+prep_time: "10"
+cook_time: "10"
+total_servings: "4"
+
 ---
 
-###### English
+
+{{% postlang lang="english" %}}
+
+Recipe coming soon in English... Please watch this space. 
+
+{{% /postlang %}}
 
 
-
-
-
-
-###### Marathi
-
+{{% postlang lang="marathi" %}}
 
 #### शेवयाची खीर
 
@@ -45,5 +50,4 @@ tags:
 - गॅस बंद केला कि साखर घालून नीट ढवळून घ्यावे. 
 - वरून विलायची पूड, बेदाणे, काजू-बदामाचे तुकडे घालून खीर खायला घ्यावी.   
 
-
-
+{{% /postlang %}}

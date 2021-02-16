@@ -1,9 +1,9 @@
 ---
 title: "व्हॅनिला स्पॉंज केक (Vanilla Sponge Cake)"
 date: 2020-12-31
-description: "Marathi Recipe for vanilla sponge cake"
+description: "Marathi and English Recipe for vanilla sponge cake"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "vanilla-sponge-cake"
 categories: 
   - "Dessert"
@@ -12,14 +12,16 @@ tags:
   - "Vanilla"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### व्हॅनिला स्पॉंज केक  
@@ -56,3 +58,4 @@ tags:
 
 
 
+ {{% /postlang %}}

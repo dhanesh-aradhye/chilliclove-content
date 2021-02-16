@@ -1,7 +1,7 @@
 ---
 title: "कांद्याच्या पातीची भाजी (Spring Onion Curry)"
 date: 2019-12-15
-description: "Marathi Recipe for kandyachi paat bhaji or spring onion curry"
+description: "Marathi and English Recipe for kandyachi paat bhaji or spring onion curry"
 type: "post"
 image: "images/masonary-post/kandyachya-patechi-bhaji.jpg"
 slug: "kandyachya-paatichi-bhaji"
@@ -14,7 +14,9 @@ tags:
   
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -22,8 +24,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -56,3 +57,4 @@ tags:
 - नीट हलवून मग त्यात चिरलेला बटाटा टाकून पाव वाटी पाणी टाकणे व झाकण ठेवून ५ मिनिटे शिजवणे.
 - नंतर त्यात चिरलेली कांद्याची पात टाकून भाजी कोरडी होईपर्यंत झाकण ठेवून शिजवणे.
 
+ {{% /postlang %}}

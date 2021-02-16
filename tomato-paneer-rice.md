@@ -1,9 +1,9 @@
 ---
 title: "टोमॅटो पनीर राईस (Tomato Paneer Rice)"
 date: 2020-07-23
-description: "Marathi Recipe for tomato paneer rice"
+description: "Marathi and English Recipe for tomato paneer rice"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/tomato_paneer_rice.jpg"
 slug: "tomato-paneer-rice"
 categories: 
   - "Rice"
@@ -12,14 +12,15 @@ tags:
   - "Paneer"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### टोमॅटो पनीर राईस 
@@ -58,3 +59,6 @@ tags:
 - नंतर त्यामध्ये शिजलेला भात घालून नीट मिसळून घ्यावा. 
 - आणि झाकण ठेवून ३-४ वाफा काढाव्यात. 
 - वरून बारीक चिरलेली कोथिंबीर घालून टोमॅटो पनीर राईस गरम गरम सर्व्ह करावा.  
+
+
+ {{% /postlang %}}

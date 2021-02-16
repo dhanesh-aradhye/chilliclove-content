@@ -1,9 +1,9 @@
 ---
 title: "सीताफळाची बासुंदी (Sitaphal Basundi)"
 date: 2020-07-15
-description: "Marathi Recipe for sitaphal basundi"
+description: "Marathi and English Recipe for sitaphal basundi"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/sitaphal_basundi.jpg"
 slug: "sitaphal-basundi"
 categories: 
   - "Dessert"
@@ -14,14 +14,15 @@ tags:
   - "Sweet"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### सीताफळाची बासुंदी 
@@ -52,3 +53,4 @@ tags:
 
 
 
+ {{% /postlang %}}

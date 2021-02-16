@@ -1,9 +1,9 @@
 ---
 title: "बेसन लाडू (Besan Ladoo)"
 date: 2020-11-01
-description: "Marathi Recipe for besan ladoo"
+description: "Marathi and English Recipe for besan ladoo"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "besan-ladoo"
 categories: 
   - "Dessert"
@@ -12,14 +12,12 @@ tags:
   - "Diwali"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
-
-
-
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### बेसन लाडू 
@@ -49,3 +47,4 @@ tags:
 - इतक्या साहित्यामध्ये साधारण २८-३० लाडू होतात.   
 
 
+ {{% /postlang %}}

@@ -1,7 +1,7 @@
 ---
 title: "कोरडे कोळंबी (Dry Prawns)"
 date: 2019-12-09
-description: "Marathi Recipe for prawns kolimb snack"
+description: "Marathi and English Recipe for prawns kolimb snack"
 type: "post"
 image: "images/masonary-post/dry-prawns.jpg"
 slug: "dry-prawns"
@@ -11,8 +11,9 @@ tags:
   - "Prawns"
 ---
 
-###### English
-
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 #### Dry Prawns
 
@@ -47,7 +48,7 @@ turmeric powder for at least an hour. Better if 1.5 hours.
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### कोरडे कोळंबी
@@ -80,3 +81,4 @@ turmeric powder for at least an hour. Better if 1.5 hours.
 - ते 5-10 मिनिटे झाकून ठेवा.
 
 
+ {{% /postlang %}}

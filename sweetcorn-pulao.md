@@ -1,7 +1,7 @@
 ---
 title: "स्वीटकॉर्न पुलाव (Sweetcorn Pulao)"
 date: 2020-07-05
-description: "Marathi Recipe for sweetcorn pulao"
+description: "Marathi and English Recipe for sweetcorn pulao"
 type: "post"
 image: "images/masonary-post/sweetcorn_pulao.jpg"
 slug: "sweetcorn-pulao"
@@ -14,14 +14,15 @@ tags:
   - "Vegetable pulao"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### स्वीटकॉर्न पुलाव
@@ -53,3 +54,5 @@ tags:
 - आणि २ ते अडीच ग्लास पाणी टाकून ४ शिट्ट्या कराव्यात. 
 - हा पुलाव खूप कमी साहित्यामध्ये होतो आणि चविष्ट लागतो. 
 
+
+ {{% /postlang %}}

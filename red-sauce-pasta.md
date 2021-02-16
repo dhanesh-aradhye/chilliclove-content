@@ -1,7 +1,7 @@
 ---
 title: "रेड सॉस पास्ता (Red Sauce Pasta)"
 date: 2020-01-30
-description: "Marathi Recipe for pasta in red sause"
+description: "Marathi and English Recipe for pasta in red sause"
 type: "post"
 image: "images/masonary-post/red_sauce_pasta.jpg"
 slug: "red sauce pasta"
@@ -15,14 +15,18 @@ tags:
   - "Tasty Snack"
 ---
 
-###### English
+{{% postlang lang="english" %}}
+
+Coming soon... Stay tuned.
+
+{{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### रेड सॉस पास्ता
@@ -66,3 +70,6 @@ tags:
 
 
 ##### Pasta:  [पास्ता](/Pasta) 
+
+
+ {{% /postlang %}}

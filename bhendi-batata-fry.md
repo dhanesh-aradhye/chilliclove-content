@@ -1,7 +1,7 @@
 ---
 title: "भेंडी बटाटा फ्राय (Bhendi Potato Fry)"
 date: 2019-12-11
-description: "Marathi Recipe for bhendi batata fry bhaji"
+description: "Marathi and English Recipe for bhendi batata fry bhaji"
 type: "post"
 image: "images/masonary-post/bhendi-batata-fry.jpg"
 slug: "bhendi-batata-fry"
@@ -12,7 +12,9 @@ tags:
 ---
 
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -53,3 +54,5 @@ tags:
 
 > **टीप:** भाजी जास्त सारखी सारखी हलवू नये. व भाजी हलवल्यानंतर नीट पसरून ठेवावी, म्हणजे छान कुरकुरीत होते.
 तसेच भाजी लो फ्लेम वर करावी म्हणजे अधिक चविष्ट लागते.
+
+ {{% /postlang %}}

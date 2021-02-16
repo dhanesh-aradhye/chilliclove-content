@@ -1,7 +1,7 @@
 ---
 title: "भगर व दाण्याची आमटी (Bhagar and Groundnut amti)"
 date: 2020-01-07
-description: "Marathi Recipe for bhagar and danyachi aamti"
+description: "Marathi and English Recipe for bhagar and danyachi aamti"
 type: "post"
 image: "images/masonary-post/bhagar_danyachi_amti.jpg"
 slug: "bhagar-amti"
@@ -18,15 +18,16 @@ tags:
   - "Barnyard Millet"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### भगर व दाण्याची आमटी  
@@ -72,3 +73,6 @@ tags:
 - एका पातेल्यात तूप टाकून ,ते गरम झाले कि जिरेपूड व वरील पेस्ट टाकून १ मिनिट परतून घ्यावे. 
 - मग त्यामध्ये २ ग्लास पाणी टाकावे. 
 - नंतर त्यामध्ये आमसूल व गूळ टाकून, झाकण ठेवून ७-८ मिनिटे आमटी चंगली शिजवावी. 
+
+
+ {{% /postlang %}}

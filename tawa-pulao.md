@@ -1,7 +1,7 @@
 ---
 title: "तवा पुलाव (Tawa Puloa)"
 date: 2019-12-30
-description: "Marathi Recipe for Tawa Pulao rice dish"
+description: "Marathi and English Recipe for Tawa Pulao rice dish"
 type: "post"
 image: "images/masonary-post/tava_pulao.jpg"
 slug: "tawa-pulao"
@@ -12,7 +12,9 @@ tags:
   - "Pulao"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -67,3 +68,6 @@ tags:
 
 ##### आंब्याचा भात: [हापूस आंब्याचा भात](/hapus-amba-bhat) 
 ##### नारळीभात: [नारळीभात](/narali-bhat) 
+
+
+ {{% /postlang %}}

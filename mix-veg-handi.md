@@ -1,9 +1,9 @@
 ---
 title: "मिक्स व्हेज हंडी (Mix Veg Handi)"
 date: 2020-07-17
-description: "Marathi Recipe for mix veg handi"
+description: "Marathi and English Recipe for mix veg handi"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/mix_veg-handi.jpg"
 slug: "mix-veg-handi"
 categories: 
   - "Meal"
@@ -14,14 +14,15 @@ tags:
   - "Paneer"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मिक्स व्हेज हंडी
@@ -87,3 +88,4 @@ tags:
 - भाजी शिजली कि गॅस बंद करून, कसूरी मेथी चुरून टाकावी. 
 - वरून कोथिंबिरीने सजवून भाजी सर्व्ह करावी. 
 
+ {{% /postlang %}}

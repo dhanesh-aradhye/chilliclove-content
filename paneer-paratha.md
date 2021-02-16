@@ -1,9 +1,9 @@
 ---
 title: "पनीर पराठा (Paneer Paratha)"
 date: 2020-12-12
-description: "Marathi Recipe for paneer paratha"
+description: "Marathi and English Recipe for paneer paratha"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "paneer-paratha"
 categories: 
   - "Meal"
@@ -12,14 +12,18 @@ tags:
   - "Paneer"
 ---
 
-###### English
+{{% postlang lang="english" %}}
+
+Coming soon... Stay tuned.
+
+{{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### पनीर पराठा 
@@ -49,3 +53,4 @@ tags:
 - वरील सारण कणकेमध्ये भरून, हलक्या हाताने पराठे लाटावेत व तेल सोडून दोन्ही बाजूंनी खरपूस भाजून घ्यावे. 
 - ह्या प्रमाणामध्ये साधारणपणे मध्यम आकाराचे ७-८ पराठे होतील. 
 
+ {{% /postlang %}}

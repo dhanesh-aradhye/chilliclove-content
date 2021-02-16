@@ -1,9 +1,9 @@
 ---
 title: "गुळाची पोळी (Gulachi Poli)"
 date: 2021-01-14
-description: "Marathi Recipe for gulachi poli"
+description: "Marathi and English Recipe for gulachi poli"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "gulachi-poli"
 categories: 
   - "Dessert"
@@ -14,14 +14,16 @@ tags:
   - "Pongal"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### गुळाची पोळी
@@ -63,3 +65,4 @@ tags:
 
 
 
+ {{% /postlang %}}

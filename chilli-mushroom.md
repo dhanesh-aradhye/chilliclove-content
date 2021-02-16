@@ -1,7 +1,7 @@
 ---
 title: "चिली मशरूम (Mushroom Chilli)"
 date: 2020-02-10
-description: "Marathi Recipe for chilli mushroom"
+description: "Marathi and English Recipe for chilli mushroom"
 type: "post"
 image: "images/masonary-post/chilli_mushroom.jpg"
 slug: "chilli-mushroom"
@@ -14,7 +14,9 @@ tags:
   - "Chilli"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -22,7 +24,7 @@ tags:
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### चिली मशरूम
@@ -62,3 +64,4 @@ tags:
 - मग त्यामध्ये सोया सॉस, टोमॅटो सॉस, चवीनुसार मीठ घालून नीट हलवून घ्यावे. 
 - त्याला थोडीशी उकळी आली कि मग त्यामध्ये फ्राय केलेले मशरूम्स घालून, २-३ मिनिटे झाकण न ठेवता शिजवावे. व गरम गरम सर्व करावे. 
 
+ {{% /postlang %}}

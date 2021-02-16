@@ -1,7 +1,7 @@
 ---
 title: "मशरूम्स सिमला मिरची स्वीटकॉर्न मसाला (Mushroom Capsicum Corn Masala)"
 date: 2020-05-28
-description: "Marathi Recipe for mushroom capsicum corn masala spicy curry"
+description: "Marathi and English Recipe for mushroom capsicum corn masala spicy curry"
 type: "post"
 image: "images/masonary-post/mushroom_sweetcorn_capsicum_masala.jpg"
 slug: "mushroom-capsicum-corn-masala"
@@ -16,14 +16,16 @@ tags:
   - "Curry"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मशरूम्स सिमला मिरची स्वीटकॉर्न मसाला
@@ -67,3 +69,4 @@ tags:
 
 
 
+ {{% /postlang %}}

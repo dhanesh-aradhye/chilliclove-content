@@ -1,7 +1,7 @@
 ---
 title: "अंडा करी (Egg Curry)"
 date: 2020-08-05
-description: "Marathi Recipe for egg curry"
+description: "Marathi and English Recipe for egg curry"
 type: "post"
 image: "images/masonary-post/egg_biryani.jpg"
 slug: "egg-curry"
@@ -14,14 +14,15 @@ tags:
   - "Anda"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### अंडा करी (२ जणांसाठी)
@@ -60,3 +61,4 @@ tags:
 
 
 
+ {{% /postlang %}}

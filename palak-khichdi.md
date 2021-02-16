@@ -1,7 +1,7 @@
 ---
 title: "पालक खिचडी (Spinach Rice)"
 date: 2020-02-15
-description: "Marathi Recipe for Palak Khichdi or Spinach Rice"
+description: "Marathi and English Recipe for Palak Khichdi or Spinach Rice"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
 slug: "palak-khichdi"
@@ -15,14 +15,16 @@ tags:
   - "Delicious"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### पालक खिचडी
@@ -54,3 +56,4 @@ tags:
 - मग त्यामध्ये अडीच ते तीन ग्लास पाणी, मीठ टाकून चांगले ढवळावे. 
 - पाण्याला उकळी आली कि मग कूकर चे झाकण लावून ४-५ शिट्ट्या कराव्यात. 
 
+ {{% /postlang %}}

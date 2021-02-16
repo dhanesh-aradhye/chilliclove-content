@@ -1,9 +1,9 @@
 ---
 title: " पालक शेव (Palak Shev)"
 date: 2020-11-07
-description: "Marathi Recipe for palak shev"
+description: "Marathi and English Recipe for palak shev"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "palak-shev"
 categories: 
   - "Snack"
@@ -12,14 +12,18 @@ tags:
   - "Diwali"
 ---
 
-###### English
+{{% postlang lang="english" %}}
+
+Coming soon... Stay tuned.
+
+{{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 ####  पालक शेव
@@ -46,3 +50,4 @@ tags:
 - एका तासाने शेव करताना, थोडे थोडे पीठ घेऊन त्याला पाण्याचा हात लावून थोडे सैलसर मळून गरम तेलात सोऱ्याने शेव पाडून हलकी गुलाबी तळावी. 
 - शेव मंद आचेवर तळावी. 
 
+ {{% /postlang %}}

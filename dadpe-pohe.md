@@ -1,7 +1,7 @@
 ---
 title: "दडपे पोहे (Dadpe Pohe)"
 date: 2019-12-17
-description: "Marathi Recipe for dadpe pohe snacks"
+description: "Marathi and English Recipe for dadpe pohe snacks"
 type: "post"
 image: "images/masonary-post/dadpe-pohe.jpg"
 slug: "dadpe-pohe"
@@ -11,7 +11,9 @@ tags:
   - "Pohe"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -53,3 +54,5 @@ tags:
 - १५ मिनिटाने त्यात गोड मसाला, मीठ, पिठीसाठार, खोबऱ्याचा चव, कांदा व दही घालून नीट एकत्र करून झाकून ठेवावेत. 
 - कढई मध्ये तेल गरम करून त्यात मोहरी, हिंग, हळद, कढीपत्ता व मिरच्या घालून खमंग फोडणी करून घ्यावी.
 - ही फोडणी पोह्यांवर घालून हलके कालवावे व वरून बारीक चिरलेली कोथिंबीर भुरभुरावी.
+
+ {{% /postlang %}}

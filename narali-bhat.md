@@ -1,7 +1,7 @@
 ---
 title: "नारळीभात (Coconut Sweet Rice)"
 date: 2019-12-19
-description: "Marathi Recipe for Narali bhat or also called coconut sweet rice dish"
+description: "Marathi and English Recipe for Narali bhat or also called coconut sweet rice dish"
 type: "post"
 image: "images/masonary-post/narali-bhat.jpg"
 slug: "narali-bhat"
@@ -12,7 +12,9 @@ tags:
   - "Coconut"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -60,3 +61,5 @@ tags:
 
 ##### आंब्याचा भात: [हापूस आंब्याचा भात](/hapus-amba-bhat) 
 ##### तवा पुलाव: [तवा पुलाव](/tawa-pulao) 
+
+ {{% /postlang %}}

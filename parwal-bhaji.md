@@ -1,7 +1,7 @@
 ---
 title: "परवलाची भाजी (Parwal bhaji)"
 date: 2019-12-21
-description: "Marathi Recipe for pointed guard bhaji parval bhaji"
+description: "Marathi and English Recipe for pointed guard bhaji parval bhaji"
 type: "post"
 image: "images/masonary-post/parwal-bhaji.jpg"
 slug: "parwal-bhaji"
@@ -12,7 +12,9 @@ tags:
   - "Parwal"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -59,3 +60,5 @@ tags:
 - आणि भाजी छान खरपूस होईपर्यंत १५ ते २० मिनिटे शिजवावी.
 - मधून मधून भाजीला सतत हलवत राहावे.
 - नंतर गॅस बंद करून चिरलेली कोथिंबीर घालून भाजी सर्व करावी.
+
+ {{% /postlang %}}

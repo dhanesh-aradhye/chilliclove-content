@@ -1,7 +1,7 @@
 ---
 title: "खजूर कणिक शिरा (Dates Sheera)"
 date: 2020-01-01
-description: "Marathi Recipe for sheera made of wheat and khajoor or dates"
+description: "Marathi and English Recipe for sheera made of wheat and khajoor or dates"
 type: "post"
 image: "images/masonary-post/khajoor_kanik_halwa.jpg"
 slug: "khajoor-kanik-sheera-halwa"
@@ -15,7 +15,9 @@ tags:
 ---
 
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -23,8 +25,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -57,3 +58,5 @@ tags:
 
 
 > **टीप:** खजूर नीट साफ करून धुवून घेऊन मग चिरावा. हा शिरा अतिशय पौष्टिक असून ह्यातून भरपूर लोह मिळते.
+
+ {{% /postlang %}}

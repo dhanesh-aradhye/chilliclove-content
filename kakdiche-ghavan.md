@@ -1,9 +1,9 @@
 ---
 title: "काकडीचे घावन (Cucumber Pancake)"
 date: 2020-07-12
-description: "Marathi Recipe for kakdiche ghavan"
+description: "Marathi and English Recipe for kakdiche ghavan"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/kakdiche_ghavan.jpg"
 slug: "kakdiche-ghavan"
 categories: 
   - "Snack"
@@ -14,14 +14,15 @@ tags:
   - "Pancake"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### काकडीचे घावन
@@ -46,3 +47,4 @@ tags:
 - घावन भाजताना कडेने साजूक तूप सोडायला विसरू नये. 
 - काकडीचे हे घावन गरम गरम खूप छान लागते व लहान मुलांनाही आवडते. 
 
+ {{% /postlang %}}

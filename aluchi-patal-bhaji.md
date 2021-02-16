@@ -1,7 +1,7 @@
 ---
 title: "अळूची पातळ भाजी (Taro Leaves Curry)"
 date: 2019-12-10
-description: "Marathi Recipe for aluchi patal bhaji also called as taro leaves curry"
+description: "Marathi and English Recipe for aluchi patal bhaji also called as taro leaves curry"
 type: "post"
 image: "images/masonary-post/aluchi-patal-bhaji.jpg"
 slug: "aluchi-patal-bhaji"
@@ -12,7 +12,9 @@ tags:
   - "Alu Bhaji"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -56,3 +57,6 @@ tags:
 - मग त्यात पाव वाटी पाणी घालून झाकण ठेवून भाजी ५-७ मिनिटे शिजवावी.
 - नंतर त्यात चिंचेचा कोळ, गूळ, मीठ, तिखट व बेसन घालून व्यवस्थित हलवावे.
 - मग त्यात १ ते दीड ग्लास पाणी घालून ७-८ वाफा काढाव्यात.
+
+
+ {{% /postlang %}}

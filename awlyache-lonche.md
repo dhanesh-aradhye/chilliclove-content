@@ -1,7 +1,7 @@
 ---
 title: "आवळ्याचे लोणचे (Amla Pickle)"
 date: 2019-12-12
-description: "Marathi Recipe for awalyche lonche also called as amla pickle"
+description: "Marathi and English Recipe for awalyche lonche also called as amla pickle"
 type: "post"
 image: "images/masonary-post/mix_veg_pickle.jpg"
 slug: "awlyache-loncha"
@@ -14,7 +14,9 @@ tags:
 ---
 
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -22,8 +24,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -61,3 +62,6 @@ tags:
 
 
 > **टीप:** लोणचे नीट राहण्यासाठी सुरुवातीला, दर १-२ दिवसांनी हलवून नीट दाबून ठेवावे.
+
+
+ {{% /postlang %}}

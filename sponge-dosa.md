@@ -1,7 +1,7 @@
 ---
 title: "स्पॉंज डोसा (Sponge Dosa)"
 date: 2020-06-21
-description: "Marathi Recipe for sponge dosa"
+description: "Marathi and English Recipe for sponge dosa"
 type: "post"
 image: "images/masonary-post/sponge_dosa.jpg"
 slug: "sponge-dosa"
@@ -13,14 +13,15 @@ tags:
   - "Soft"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### स्पॉंज डोसा
@@ -51,3 +52,4 @@ tags:
 - ह्या प्रमाणामध्ये साधारणपणे ११-१२ डोसे होतील. 
 
 
+ {{% /postlang %}}

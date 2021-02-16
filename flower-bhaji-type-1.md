@@ -1,7 +1,7 @@
 ---
 title: "फ्लॉवरची भाजी - प्रकार १ (Cauliflower Curry - Type 1)"
 date: 2020-02-03
-description: "Marathi Recipe for Spicy and Tasty cauliflower curry"
+description: "Marathi and English Recipe for Spicy and Tasty cauliflower curry"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
 slug: "flowerchi bhaji"
@@ -16,14 +16,16 @@ tags:
   - "Tasty"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### फ्लॉवरची भाजी - प्रकार १ 
@@ -54,3 +56,4 @@ tags:
 
 
 
+ {{% /postlang %}}

@@ -1,7 +1,7 @@
 ---
 title: "कणकेचा केक (Wheat Cake)"
 date: 2019-12-13
-description: "Marathi Recipe for kankecha cake or wheat cake"
+description: "Marathi and English Recipe for kankecha cake or wheat cake"
 type: "post"
 image: "images/masonary-post/kankecha_cake.jpg"
 slug: "kankecha-cake"
@@ -11,7 +11,9 @@ tags:
   - "Cake"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -50,3 +51,5 @@ tags:
 - केक च्या भांड्याला तुपाचा हात लावून वरून थोडा मैदा भुरभुरावा व भांडे उलटे करून त्यास टिचकी मारावी म्हणजे जास्तीचा मैदा राहणार नाही.
 - हे भांडे कुकर बरोबर गरम करायला ठेवावे.
 - भांडे गरम झाले कि त्यात छान फेटलेले केक चे मिश्रण ओतावे व कुकर मध्ये साधारण पणे पाऊण तास ठेवावे.
+
+ {{% /postlang %}}

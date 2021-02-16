@@ -1,7 +1,7 @@
 ---
 title: "हापूस आंब्याचा भात (Mango Rice)"
 date: 2019-12-19
-description: "Marathi Recipe for sweet rice made with alphanso mango also called locally as hapus amba bhat"
+description: "Marathi and English Recipe for sweet rice made with alphanso mango also called locally as hapus amba bhat"
 type: "post"
 image: "images/masonary-post/hapus_ambyacha_bhat.jpg"
 slug: "hapus-amba-bhat"
@@ -12,7 +12,9 @@ tags:
   - "Mango"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -58,3 +59,5 @@ tags:
 
 ##### नारळीभात: [नारळीभात](/narali-bhat) 
 ##### तवा पुलाव: [तवा पुलाव](/tawa-pulao) 
+
+ {{% /postlang %}}

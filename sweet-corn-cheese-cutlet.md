@@ -1,7 +1,7 @@
 ---
 title: "स्वीट कॉर्न चीज कटलेट (Sweet Corn Cheese Cutlet)"
 date: 2019-12-20
-description: "Marathi Recipe for sweet corn cutlet maka snacks"
+description: "Marathi and English Recipe for sweet corn cutlet maka snacks"
 type: "post"
 image: "images/masonary-post/sweet-corn-cheese-cutlet.jpg"
 slug: "sweet-corn-cheese-cutlet"
@@ -12,7 +12,9 @@ tags:
   - "Cheese"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -55,3 +56,5 @@ tags:
 
 
 ##### भजी: [स्वीट कॉर्नची भजी](/sweet-corn-bhajji) 
+
+ {{% /postlang %}}

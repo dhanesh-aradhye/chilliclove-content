@@ -1,9 +1,9 @@
 ---
 title: " शंकरपाळे (Shankarpale)"
 date: 2020-11-04
-description: "Marathi Recipe for shankarpale"
+description: "Marathi and English Recipe for shankarpale"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/post-1.jpg"
 slug: "shankarpale"
 categories: 
   - "Snack"
@@ -12,14 +12,16 @@ tags:
   - "Diwali"
 ---
 
-###### English
+{{% postlang lang="english" %}}
+
+Coming soon... Stay tuned.
+
+{{% /postlang %}}
 
 
 
 
-
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 ####  शंकरपाळे
@@ -46,3 +48,4 @@ tags:
 - एका तासाने ह्या मिश्रणाचे गोळे करून पोळपाटावर गोल पोळी लाटून त्याच्या चौकोनी शंकरपाळ्या कापाव्यात. 
 - गरम तेलामध्ये शंकरपाळ्या गुलाबीसर तळाव्यात. 
 
+ {{% /postlang %}}

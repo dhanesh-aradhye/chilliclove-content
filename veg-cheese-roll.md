@@ -1,7 +1,7 @@
 ---
 title: "व्हेज चीझ रोल (Veg Cheese Roll)"
 date: 2020-01-01
-description: "Marathi Recipe for veg cheese roll"
+description: "Marathi and English Recipe for veg cheese roll"
 type: "post"
 image: "images/masonary-post/veg_cheese_roll.jpg"
 slug: "veg-cheese-roll"
@@ -12,7 +12,9 @@ tags:
 ---
 
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -73,3 +74,5 @@ tags:
 
 
 > **टीप:** सरणातील भाज्या फार मऊ शिजवू नये. खाताना थोड्या crunchy लागल्या पाहिजेत.
+
+ {{% /postlang %}}

@@ -1,7 +1,7 @@
 ---
 title: "सोया चंक्स मसाला (Soya Chunks Masala)"
 date: 2020-06-02
-description: "Marathi Recipe for soya chunks masala"
+description: "Marathi and English Recipe for soya chunks masala"
 type: "post"
 image: "images/masonary-post/soya_chunks_masala.jpg"
 slug: "soya-chunks-masala"
@@ -14,14 +14,15 @@ tags:
   - "Protein Rich"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### सोया चंक्स मसाला 
@@ -63,3 +64,4 @@ tags:
 - मग गॅस बंद करून कोथिंबीर घालून सजवावे. 
 
 
+ {{% /postlang %}}

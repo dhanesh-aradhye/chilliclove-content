@@ -1,7 +1,7 @@
 ---
 title: "मँगो फिरनी (Mango Firni)"
 date: 2020-06-28
-description: "Marathi Recipe for mango firni"
+description: "Marathi and English Recipe for mango firni"
 type: "post"
 image: "images/masonary-post/mango_firni.jpg"
 slug: "mango-firni"
@@ -13,14 +13,15 @@ tags:
   - "Mango"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मँगो फिरनी
@@ -51,3 +52,4 @@ tags:
 - सर्व मिश्रण एकजीव होऊन थोडे घट्ट झाले कि गॅस बंद करावा. 
 - मग हे थंड झाले कि वरून एका आंब्याच्या बारीक फोडी, काजू-पिस्ता-बदामाचे पातळ काप व विलायची पूड टाकून खायला घ्यावे. 
 
+ {{% /postlang %}}

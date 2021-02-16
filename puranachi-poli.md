@@ -1,7 +1,7 @@
 ---
 title: "पुरणपोळी (Puran Poli)"
 date: 2019-12-22
-description: "Marathi Recipe for marathmoli puran poli sweet chapati"
+description: "Marathi and English Recipe for marathmoli puran poli sweet chapati"
 type: "post"
 image: "images/masonary-post/puranachi-poli.jpg"
 slug: "puranachi-poli"
@@ -11,7 +11,9 @@ tags:
   - "Puran"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -54,3 +55,6 @@ tags:
 - नंतर वरून दीड चमचे तेल टाकावे. आणि मग कणकेत पुरण भरून पुरणपोळ्या कराव्यात. 
 
 > टीप: पुरणपोळ्या लाटताना वरून लावण्यास तांदुळाची पिठी वापरावी.
+
+
+ {{% /postlang %}}

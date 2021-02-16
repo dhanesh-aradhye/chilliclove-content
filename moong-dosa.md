@@ -1,7 +1,7 @@
 ---
 title: "मुगाचा डोसा (Moong Dosa)"
 date: 2020-08-08
-description: "Marathi Recipe for moong dosa"
+description: "Marathi and English Recipe for moong dosa"
 type: "post"
 image: "images/masonary-post/sponge_dosa.jpg"
 slug: "moong-dosa"
@@ -13,14 +13,15 @@ tags:
   - "Moong"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मुगाचा डोसा
@@ -49,3 +50,4 @@ tags:
 - मुगाचा डोसा चटणी व सांबारबरोबर खायला घ्यावा. 
 - हा डोसा अतिशय पौष्टिक असून लहान मुलांसाठीदेखील मधल्या वेळेतील खाऊ म्हणून छान आहे. 
 
+ {{% /postlang %}}

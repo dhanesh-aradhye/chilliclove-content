@@ -1,7 +1,7 @@
 ---
 title: "पोहा बटाटा कटलेट (Poha Batata Cutlet)"
 date: 2020-06-15
-description: "Marathi Recipe for poha batata cutlet"
+description: "Marathi and English Recipe for poha batata cutlet"
 type: "post"
 image: "images/masonary-post/pohyache_cutlet.jpg"
 slug: "poha-batata-cutlet"
@@ -17,14 +17,15 @@ tags:
   - "Easy"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### पोहा बटाटा कटलेट 
@@ -58,3 +59,4 @@ tags:
 - मग ह्याचे छोटे गोळे करून, चपटे थापून, तव्यावर दोन्ही बाजून सोनेरी रंगावर शॅलो फ्राय करावेत. 
 - शॅलो फ्राय करताना झाकण ठेवावे. 
 
+ {{% /postlang %}}

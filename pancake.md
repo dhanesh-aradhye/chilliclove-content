@@ -1,7 +1,7 @@
 ---
 title: "पॅनकेक (Pancake)"
 date: 2020-05-25
-description: "Marathi Recipe for pancake"
+description: "Marathi and English Recipe for pancake"
 type: "post"
 image: "images/masonary-post/pancake.jpg"
 slug: "pancake"
@@ -15,14 +15,18 @@ tags:
   - "Quick Recipe"
 ---
 
-###### English
+{{% postlang lang="english" %}}
+
+Coming soon... Stay tuned.
+
+{{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 #### पॅनकेक 
 
@@ -49,3 +53,6 @@ tags:
 - मग नॉनस्टिक पॅनला तूप लावून, मंद आचेवर फुलक्याएवढा पॅनकेक घालावा 
 - एका बाजूने गुलाबीसर भाजला कि मग दुसऱ्या बाजूने पण तसाच भाजून घ्यावा 
 - पॅनकेक भाजताना झाकण ठेवू नये 
+
+
+ {{% /postlang %}}

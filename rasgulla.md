@@ -1,7 +1,7 @@
 ---
 title: "रसगुल्ला (Rasgulla)"
 date: 2019-12-31
-description: "Marathi Recipe for rasgulla"
+description: "Marathi and English Recipe for rasgulla"
 type: "post"
 image: "images/masonary-post/rasgulla.jpg"
 slug: "rasgulla"
@@ -11,7 +11,9 @@ tags:
   - "Rasgulla"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -53,3 +54,5 @@ tags:
 - साखर पूर्ण विरघळली कि मग गॅस बंद करून इसेन्स टाकावा.
 - नंतर फडक्यातील घट्ट झालेला गोळा एका ताटात घेऊन छान मळावा व त्याचे छोटे छोटे एकसारखे गोळे करून पाकात टाकावे. 
 - सर्व गोळे पाकात टाकून झाल्यावर मग गॅसवर मंद आचेवर रसगुल्ले १५-२० मिनिटे झाकण न ठेवता शिजवणे.
+
+ {{% /postlang %}}

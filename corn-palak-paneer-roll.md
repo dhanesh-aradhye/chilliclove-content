@@ -1,7 +1,7 @@
 ---
 title: "कॉर्न पालक पनीर रोल (Corn Spinach Paneer Roll)"
 date: 2020-05-30
-description: "Marathi Recipe for corn palak paneer roll"
+description: "Marathi and English Recipe for corn palak paneer roll"
 type: "post"
 image: "images/masonary-post/spinach_corn_paneer_roll.jpg"
 slug: "corn-palak-paneer-roll"
@@ -16,14 +16,16 @@ tags:
   - "Franky"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
 
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### कॉर्न पालक पनीर रोल
@@ -58,3 +60,6 @@ tags:
 - ह्यानंतर घडी न घालता पोळ्या करून घ्याव्या. 
 - मग एकेक पोळी घेऊन त्यावर, कांदा, गाजर टाकावे. मग रोल साठी बनवलेले सारण टाकून त्यावर मेयॉनीज टाकून घट्ट रोल करावा. 
 - रोल चिकटवण्यासाठी सुद्धा आपण मेयॉनीज वापरू शकतो. 
+
+
+ {{% /postlang %}}

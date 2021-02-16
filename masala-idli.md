@@ -1,7 +1,7 @@
 ---
 title: "मसाला इडली (Masala Idli)"
 date: 2019-12-30
-description: "Marathi Recipe for masala idli snacks"
+description: "Marathi and English Recipe for masala idli snacks"
 type: "post"
 image: "images/masonary-post/chilli_idli.jpg"
 slug: "masala-idli"
@@ -11,7 +11,9 @@ tags:
   - "Idli"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -19,8 +21,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 
@@ -62,3 +63,5 @@ tags:
 
 
 ##### कटलेट: [स्वीट कॉर्न चीज कटलेट](/sweet-corn-cheese-cutlet) 
+
+ {{% /postlang %}}

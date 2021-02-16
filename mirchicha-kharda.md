@@ -1,9 +1,9 @@
 ---
 title: "मिरचीचा खर्डा (कमी तिखट)(Mirchicha Kharda)"
 date: 2020-07-31
-description: "Marathi Recipe for mirchicha kharda"
+description: "Marathi and English Recipe for mirchicha kharda"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/mirchicha_kharda.jpg"
 slug: "mirchicha-kharda"
 categories: 
   - "Meal"
@@ -13,14 +13,15 @@ tags:
   - "Mirchi"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मिरचीचा खर्डा (कमी तिखट)
@@ -46,3 +47,4 @@ tags:
 - ५ मिनिटाने कोथिंबीर घालावी. आणि शेंगदाणे तांबूस होईपर्यंत खर्डा परतावा. 
 - हा खर्डा कमी तिखट लागतो तरी पण भाकरीबरोबर खूप चविष्ट लागतो. तसेच ४-५ दिवस छान टिकतोही. 
 
+ {{% /postlang %}}

@@ -3,7 +3,7 @@ title: "Terms of Use"
 date: 2019-12-01T14:46:10+06:00
 description: "Terms of Use"
 slug: "terms-of-use"
-image: "images/contact.jpg"
+image: "images/cover.png"
 ---
 
 ### Terms of Use
@@ -14,7 +14,8 @@ By accessing the website at http://www.chilliclove.com/, you are agreeing to be 
 ##### Use License
 Permission is granted to temporarily download one copy of the materials (information or software) on ChilliClove's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 modify or copy the materials;
-use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+use the materials for any commercial purpose, or for any public display (commercial or non-commercial)
+If you want to re-publish any part of the website, first approach us for the permission with details;
 attempt to decompile or reverse engineer any software contained on ChilliClove's website;
 remove any copyright or other proprietary notations from the materials; or
 transfer the materials to another person or "mirror" the materials on any other server.

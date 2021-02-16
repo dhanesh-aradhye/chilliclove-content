@@ -1,7 +1,7 @@
 ---
 title: "रंगीबेरंगी कोशिंबीर (Multicolor Vegetable Raita)"
 date: 2020-06-14
-description: "Marathi Recipe for multicolor vegetable raita"
+description: "Marathi and English Recipe for multicolor vegetable raita"
 type: "post"
 image: "images/masonary-post/multicolor_veg_raita.jpg"
 slug: "multicolor-vegetable-raita"
@@ -15,14 +15,15 @@ tags:
   - "Curd"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### रंगीबेरंगी कोशिंबीर
@@ -50,3 +51,5 @@ tags:
 - वरून मोहरी, जिरे, हिंग व हळदीची फोडणी घालावी. 
 - हे सर्व गार झाले कि दही घालून नीट एकजीव हलवून सर्व करावे. 
 - अतिशय सोपी अशी हि रंगीबेरंगी कोशिंबीर खूप चवदार लागते. 
+
+ {{% /postlang %}}

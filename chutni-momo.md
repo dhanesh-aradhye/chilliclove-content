@@ -1,7 +1,7 @@
 ---
 title: "मोमो साठी चटणी (Chutni for Momo)"
 date: 2019-12-20
-description: "Marathi Recipe for creating chutni for Momos"
+description: "Marathi and English Recipe for creating chutni for Momos"
 type: "post"
 image: "images/masonary-post/chutni-momo.jpg"
 slug: "chutni-momo"
@@ -12,7 +12,9 @@ tags:
   - "Momo"
 ---
 
-###### English
+{{% postlang lang="english" %}} 
+ Recipe coming soon in English... Please watch this space. 
+ {{% /postlang %}}
 
 
 
@@ -20,8 +22,7 @@ tags:
 
 
 
-
-###### Marathi
+{{% postlang lang="marathi" %}}
 
 
 #### मोमो साठी चटणी 
@@ -54,3 +55,5 @@ tags:
 
 
 ##### मोमोज: [व्हेज मोमोज](/veg-momo) 
+
+ {{% /postlang %}}
