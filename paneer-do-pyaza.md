@@ -1,15 +1,15 @@
 ---
-title: "बेसन लाडू (Besan Ladoo)"
-date: 2020-11-01
-description: "Marathi and English Recipe for besan ladoo"
+title: "पनीर दो प्याजा  (Paneer Do Pyaza)"
+date: 2021-04-01
+description: "Marathi and English Recipe for paneer do pyaza"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
-slug: "besan-ladoo"
+slug: "paneer-do-pyaza"
 categories: 
-  - "Dessert"
+  - "Curry"
 tags:
-  - "Sweets"
-  - "Diwali"
+  - "Curry"
+  - "Paneer"
 ---
 
 {{% postlang lang="english" %}} 
@@ -20,17 +20,26 @@ tags:
 {{% postlang lang="marathi" %}}
 
 
-#### बेसन लाडू 
+#### पनीर दो प्याजा 
 
 
 ##### साहित्य:
 
-- ४ वाट्या बेसन 
-- २ वाट्या पिठीसाखर 
-- दीड वाटी साजूक तूप
-- पाऊण वाटी कोमट दूध  
-- अर्धे जायफळ (किसून)
-- बेदाणे 
+- ६ मध्यम आकाराचे कांदे 
+- ३ मध्यम आकाराचे टोमॅटो 
+- १ मोठी सिमला मिरची 
+- २०० ग्रॅम पनीर 
+- १/२ टीस्पून जिरे 
+- १/२ टीस्पून मिरपूड 
+- २-३ वेलदोडे 
+- १/२ टीस्पून जिरेपूड 
+- २ टीस्पून धणेपूड
+- १/४ टीस्पून हळद 
+- १ टीस्पून काश्मिरी तिखट 
+- ४ चमचे तेल 
+- १ तमालपत्र 
+- १ चक्रीफूल 
+
 
 ##### कृती: 
 
