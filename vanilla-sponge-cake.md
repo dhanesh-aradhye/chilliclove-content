@@ -27,6 +27,16 @@ And, we can prepare it easily with the minimal things that are present in our ki
  
  #### Ingredients:
  
+- 1 $\frac{1}{4}$ 1/4 cups all purpose floor
+- 1/2 cups powdered sugar (You can add 2 teaspoons extra sugar, if you like little more sweet.)
+- 3 Tablespoon refind oil 
+- 1/2 cups yoghurt
+- 1/2 cups milk 
+- 4-5 drops of vanilla essence 
+- 1 teaspoon baking powder 
+- 1/4 teaspoon baking soda
+- tutti frutti (Optional)
+- 
  #### Procedure: 
  {{% /postlang %}}
 
@@ -43,7 +53,7 @@ And, we can prepare it easily with the minimal things that are present in our ki
 
 ##### साहित्य:
 
-- सव्वा वाटी मैदा 
+- १ १/४ वाटी मैदा 
 - पाऊण वाटी पिठी साखर 
 - ३ चमचे रिफाईंड तेल 
 - अर्धी वाटी गोड दही 
