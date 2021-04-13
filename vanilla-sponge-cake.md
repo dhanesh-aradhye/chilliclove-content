@@ -37,7 +37,7 @@ Yeah, really!! Yet, it will turn out to be very spongy and delicious that you wo
 - 4-5 drops of vanilla essence 
 - 1 teaspoon baking powder 
 - 1/4 teaspoon baking soda
-- tutti frutti (Optional)
+- 1/4 cups tutti frutti (Optional)
  
  #### Procedure: 
  
