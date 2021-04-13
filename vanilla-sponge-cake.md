@@ -21,7 +21,9 @@ total_servings: "2"
  #### Vanilla Sponge Cake
  
 Do you like a cake? Many of us will answer "Yes". Cakes don't have country, gender, race, age and many such discriminating factors. It is prepared and served all over the world on various occasions. May it be a birthday, an anniversary, a wedding or any other kind of celebration, that can hardly conclude without a cake. Not just that, but it can be a good and delicious option for tea-time snacks. And, we can prepare it easily with the minimal things that are present in our kitchen. 
+
 The simple cake recipe that I am going to show today here won't take much prep time, won't require any fancy ingredients. And, two more things: it **does not require oven** for baking and it is **eggless**. 
+
 Yeah, really!! Yet, it will turn out to be very spongy and delicious that you would wish to prepare it quite often. So, let's get started!   
 
  
