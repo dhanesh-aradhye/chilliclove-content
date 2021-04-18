@@ -1,17 +1,17 @@
 ---
-title: "सोया रोल (Soya Roll)"
-date: 2021-04-17
-description: "Marathi and English Recipe for soya roll"
+title: "टोमॅटो सॉस (Tomato Sauce)"
+date: 2021-04-10
+description: "Marathi and English Recipe for tomato sauce"
 type: "post"
 image: "images/masonary-post/post-1.jpg"
-slug: "soya-roll"
+slug: "tomato-sauce"
 categories: 
-  - "Meal"
+  - "Sauce"
 tags:
-  - "Roll"
-  - "Frankie"
+  - "Side dish"
+  - "Sauce"
 
-prep_time: "30"
+prep_time: "5"
 cook_time: "30"
 total_servings: "4"
 
@@ -69,7 +69,7 @@ Other ingredients :
 {{% postlang lang="marathi" %}}
 
 
-#### सोया रोल  
+#### टोमॅटो सॉस   
 
 
 ##### साहित्य:
