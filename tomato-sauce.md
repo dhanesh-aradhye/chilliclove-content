@@ -37,7 +37,7 @@ Don't waste time, let's get started!
  
 - Boil tomatoes, garlic cloves, red chillies until there are slight cracks in the tomatoes.
 - Then turn off the gas, take them out in a plate and let them cool down completely.
-- Add salt, powdered sugar and cumin powder in a mixie jar. Then add tomatos, chillies and garlic cloves to it.
+- Add salt, powdered sugar and cumin powder in a mixie jar. Then add tomatoes, chillies and garlic cloves to it.
 - Blend it to prepare a smooth paste.
 - Then transfer this paste to a frying pan. Cook it uncovered at least for 10-12 minutes. Keeep on stirring it continuously.
 - Fresh tomato sauce is ready. You can store it in a refrigerator for about a week.
