@@ -20,12 +20,9 @@ total_servings: "4"
 {{% postlang lang="english" %}} 
  #### Soya Roll
  
-Do you like a cake? Many of us will answer "Yes". Cakes don't have country, gender, race, age and many such discriminating factors. It is prepared and served all over the world on various occasions. May it be a birthday, an anniversary, a wedding or any other kind of celebration, that can hardly conclude without a cake. Not just that, but it can be a good and delicious option for tea-time snacks. And, we can prepare it easily with the minimal things that are present in our kitchen. 
+Soya chunks are little bitter in taste. And, hence most of us don't like Soya chunks or Soya bean. Isn't it? But, do you know there are so many health benefits that come with Soya bean? It's high-fibre, pretein-rich, cholesterol free food. It is also a rich source of various vitamins, minerals, beneficial plant coumpounds and healthy omega 6 fatty acids. Regular moderate intake of Soya beans, promotes good health, reduces risk against certain types of cancer. 
 
-The simple cake recipe that I am going to show today here won't take much prep time, won't require any fancy ingredients. And, two more things: it **does not require oven** for baking and it is **eggless**. 
-
-Yeah, really!! Yet, it will turn out to be very spongy and delicious that you would wish to prepare it quite often. So, let's get started!   
-
+The recipe which I am going to tell you uses soya chunks and lots of other veggies. And, combnination of all these ingredients balances for the slight bitter taste of soya chunks and provides it a soothingly amazing taste. It also boosts nutritious value and makes our roll even more yummy. We need to use very basic sauces that are readily available in our kitchens and if not, then we can freshly prepare it with no time. Last but not the least thing! It is made up of wheat floor. We are not going to make use of all purpose flour / maida to make it light or delicious, but despite of that it tastes awesome! 
  
  #### Ingredients:
  
