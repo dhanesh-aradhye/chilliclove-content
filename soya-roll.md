@@ -46,22 +46,23 @@ For dough :
 Other ingredients : 
 - Tomato sauce 
 - mayonnaise 
-- 1  1/2 cup julienned onion, soaked in 2 tablespoon  fresh lemon juice
+- 1  1/2 cups julienned onion, soaked in 2 tablespoon  fresh lemon juice
  
  #### Procedure: 
  
-- Take tutti frutti in a bowl, add 1 teaspoon all purpose flour into it and mix it well. 
-- Take a frying pan or you make take pressure cooker as well. If you are taking pressure cooker then don't forget to remove its gasket and whistle.
-- Cover the bottom of frying pan/pressure cooker with a half inch layer of common salt and keep a plate over it. Cover the frying pan/pressure cooker with the lid. And, preheat it on medium/low flame. 
-- Meanwhile, take oil and yoghurt in a mixing bowl. Mix it well.
-- Then add powdered sugar to it and beat it until it starts becoming little thick.
-- Then add milk and vanilla essence to the mixture and beat it well. It makes the cake light and fluffy. 
-- Now, sift all purpose flour, baking powder and baking soda into the mixture. Mix it well with the help of a spatula. But, do it gently!
-- Add tutti frutti and give it a stir. 
-- Grease cake mould with little oil or ghee and sprinkle some all purpose flour on it. Remove excess flour by tapping on it.
-- Pour the cake batter into the mould and keep it inside the preheated frying pan/cooker. Cover it with lid. 
-- Turn the flame to low and bake the cake at least for 50 minutes.
-- Check the cake after 50 minutes, its sides should turn light brown. You can prick it with a toothpick. If it comes out clean, then your cake is ready. Turn off the gas and take the cake out. Enjoy the light and delicious cake! 
+- Take 1 1/2 cups julienned onion and add 2 tablespoon lon juice into it. Mix it well. Cover it and keep aside at least for 30 mins. 
+- Sift wheat flour into a mixing bowl. Add salt, powdered sugar and oil to it. Knead the dough, as you do for parathas. Cover it and keep aside for 20 mins.  
+- Add 1/2 teaspoon of salt to 3 cups of boining water. Then add washed soya chunks to it. Cook it for 10 mins. Don't cover while cooking.
+- Then switch off the gas, rinse soya chunks with normal water and squeeze it. 
+- For preparing filling for the roll, add 1 tablespoon oil to frying pan and heat it.
+- Then add julienned onion and ginger-garlic paste to it. Saute it auntil onion becomes light brown. 
+- Then add julienned carrot and capsicum to it. Saute it on high flame for 2-3 mins. 
+- Add chilli powder, soya sauce, salt to it and mix well. 
+- Add soya chunks to it. Mix it well and cover the frying pan with a lid.
+- Cook it for 5 mins. 
+- Divide the dough into 6 equal parts. Then take one of the portions and roll it into a large circle. Roast it on preheated pan by applying small amount of oil on both sides. 
+- रोल करताना प्रथम पोळीवर टोमॅटो केचप टाकून नीट पसरवून घ्यावे. मग त्यावर मधोमध उभे असे सारण घालावे. त्यावर लिंबाच्या रसात बुडवून ठेवलेला कांदा पसरून घालावा. आणि मग त्यावर मेयॉनीज घालावे. आणि रोल करून गरम गरम खायला घ्यावा. 
+- हा रोल खूपच चविष्ट लागतो आणि करायला पण सोपा आहे. 
 
 
 
