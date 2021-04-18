@@ -20,9 +20,9 @@ total_servings: "4"
 {{% postlang lang="english" %}} 
  #### Tomato Sauce
  
-Soya chunks are little bitter in taste. And, hence most of us don't like Soya chunks or Soya bean. Isn't it? But, do you know there are so many health benefits that come with Soya bean? It's high-fibre, pretein-rich, cholesterol free food. It is also a rich source of various vitamins, minerals, beneficial plant coumpounds and healthy omega 6 fatty acids. Regular moderate intake of Soya beans, promotes good health, reduces risk against certain types of cancer. 
+Tomato sauce is one of the essential ingredients for many dishes such as red pasta, sandwiches, pizzas, frankies and so on. We also use it as a side dish. Generally, tomato sauce/ ketchup is bought from the market, that is ready-to-it. It contains preservatives, to improve its shelf life. But, at the same time, preservatives are not good for health. So, is there a way to prepare tomato sauce at home? The answer is "Yes" and again with very basec ingredients from out kitchens and the recipe is super-simple.
 
-The recipe which I am going to tell you uses soya chunks and lots of other veggies. And, combnination of all these ingredients balances for the slight bitter taste of soya chunks and provides it a soothingly amazing taste. It also boosts nutritious value and makes our roll even more yummy. We need to use very basic sauces that are readily available in our kitchens and if not, then we can freshly prepare it with no time. Last but not the least thing! It is made up of wheat floor. We are not going to make use of all purpose flour / maida to make it light or delicious, but despite of that it tastes awesome! 
+Don't waste time, let's get started! 
  
  #### Ingredients:
  
@@ -37,7 +37,7 @@ The recipe which I am going to tell you uses soya chunks and lots of other veggi
  
 - Boil tomatoes, garlic cloves, red chillies until there are slight cracks in the tomatoes.
 - Then turn off the gas, take them out in a plate and let them cool down completely.
-- Add salt, powdered sugar and cumin powder in the mixie jar. Then add tomatos, chillies and garlic cloves to it.
+- Add salt, powdered sugar and cumin powder in a mixie jar. Then add tomatos, chillies and garlic cloves to it.
 - Blend it to prepare a smooth paste.
 - Then transfer this paste to a frying pan. Cook it uncovered at least for 10-12 minutes. Keeep on stirring it continuously.
 - Fresh tomato sauce is ready. You can store it in a refrigerator for about a week.
