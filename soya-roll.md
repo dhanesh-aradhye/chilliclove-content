@@ -36,6 +36,7 @@ For filling :
 - 1/2 teaspoon red chilli poweder
 - Salt to taste
 - 2 teaspoon soya sauce 
+- 1 teaspoon black pepper powder
 
 For dough : 
 - 3 cups wheat flour 
@@ -57,14 +58,12 @@ Other ingredients :
 - For preparing filling for the roll, add 1 tablespoon oil to frying pan and heat it.
 - Then add julienned onion and ginger-garlic paste to it. Saute it auntil onion becomes light brown. 
 - Then add julienned carrot and capsicum to it. Saute it on high flame for 2-3 mins. 
-- Add chilli powder, soya sauce, salt to it and mix well. 
+- Add chilli powder, black pepper powder, soya sauce, salt to it and mix well. 
 - Add soya chunks to it. Mix it well and cover the frying pan with a lid.
 - Cook it for 5 mins. 
-- Divide the dough into 6 equal parts. Then take one of the portions and roll it into a large circle. Roast it on preheated pan by applying small amount of oil on both sides. 
-- रोल करताना प्रथम पोळीवर टोमॅटो केचप टाकून नीट पसरवून घ्यावे. मग त्यावर मधोमध उभे असे सारण घालावे. त्यावर लिंबाच्या रसात बुडवून ठेवलेला कांदा पसरून घालावा. आणि मग त्यावर मेयॉनीज घालावे. आणि रोल करून गरम गरम खायला घ्यावा. 
-- हा रोल खूपच चविष्ट लागतो आणि करायला पण सोपा आहे. 
-
-
+- Divide the dough into 6 equal parts. Then take one of the portions and roll it into a large circle. Roast it on preheated pan by applying small amount of oil on both sides. This is called "Paratha".
+- Spread tomato sauce evenly over a paratha. Then add filling on the diagonal part of the paratha. Top it with onion that was soaked in lemon juice. Add meyonnaise. Toll the paratha tightly with the help of aluminium foil.
+- You can use my recipe to prepare instant tomato sauce.
 
 {{% /postlang %}}
 {{% postlang lang="marathi" %}}
@@ -85,6 +84,7 @@ Other ingredients :
 - १/२ टीस्पून तिखट 
 - मीठ चवीनुसार 
 - २ टीस्पून सोया सॉस 
+- १ टीस्पून मिरेपूड 
 
 आवरणासाठी : 
 - ३ वाट्या कणिक 
@@ -109,7 +109,7 @@ Other ingredients :
 - सारण करण्यासाठी एका कढईमध्ये तेल घेऊन गरम करायला ठेवावे. 
 - तेल गरम झाले कि त्यामध्ये कांदा आणि आले-लसूण पेस्ट घालून कांदा हलका गुलाबी होईपर्यंत परतावे. 
 - मग त्यामध्ये गाजर आणि सिमला मिरची टाकून, गॅस मोठा करून ३-४ मिनिटे परतावे. 
-- मग त्यामध्ये तिखट, मीठ आणि सोया सॉस घालून चांगले मिसळून घ्यावे. 
+- मग त्यामध्ये तिखट, मीठ, मिरेपूड आणि सोया सॉस घालून चांगले मिसळून घ्यावे. 
 - नंतर त्यामध्ये सोया चंक्स पिळून घालावेत आणि नीट हलवून घ्यावे. 
 - हे सारण ५ मिनिटे झाकण ठेवून शिजवून घ्यावे. 
 - सारण झाल्यावर आवरणासाठी किंचित जाडसर पोळ्या लाटून, थोड्याशा तेलावर दोन्ही बाजूंनी खरपूस भाजून घ्याव्या. 
