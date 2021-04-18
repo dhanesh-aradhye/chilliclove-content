@@ -26,15 +26,27 @@ The recipe which I am going to tell you uses soya chunks and lots of other veggi
  
  #### Ingredients:
  
-- 1 1/4 cups all purpose flour
-- 1/2 cups powdered sugar (You can add 2 teaspoons extra sugar, if you like little more sweet.)
-- 3 Tablespoon refind oil 
-- 1/2 cups yoghurt
-- 1/2 cups milk 
-- 4-5 drops of vanilla essence 
-- 1 teaspoon baking powder 
-- 1/4 teaspoon baking soda
-- 1/4 cups tutti frutti (Optional)
+For filling : 
+- 1 1/2 cups soya chunks
+- 1 cup julienned onion  
+- 1 cup julienned carrot 
+- 1/2 cup julienned capsicum
+- 1 teaspoon ginger-garlic paste 
+- 1 tablespoon oil  
+- 1/2 teaspoon red chilli poweder
+- Salt to taste
+- 2 teaspoon soya sauce 
+
+For dough : 
+- 3 cups wheat flour 
+- 1 teaspoon salt 
+- 1 teaspoong powdered sugar 
+- 1/2 tablespoon oil 
+
+Other ingredients : 
+- Tomato sauce 
+- mayonnaise 
+- 1  1/2 cup julienned onion, soaked in 2 tablespoon  fresh lemon juice
  
  #### Procedure: 
  
@@ -75,9 +87,9 @@ The recipe which I am going to tell you uses soya chunks and lots of other veggi
 
 आवरणासाठी : 
 - ३ वाट्या कणिक 
-- १ टेबलस्पून मीठ 
-- १ टेबलस्पून पिठी साखर 
-- १ चमचा तेल 
+- १ टीस्पून मीठ 
+- १ टीस्पून पिठी साखर 
+- १/२ टेबलस्पून तेल 
 
 रोल करताना 
 - टोमॅटो केचप 
