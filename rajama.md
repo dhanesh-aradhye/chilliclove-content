@@ -3,7 +3,7 @@ title: "राजमाा (Rajma)"
 date: 2021-01-26
 description: "Marathi Recipe for rajma"
 type: "post"
-image: "images/masonary-post/corn-salad.jpg"
+image: "images/masonary-post/rajma.jpg"
 slug: "rajma"
 categories: 
   - "Meal"
